@@ -25,13 +25,17 @@
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">indigenousEngineering on github <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
+        
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ indigenousengineering.github.io }}">home</a></p>
+        {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">indigenous engineering on github</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}">github</a></p>
         {% endif %}
         
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ indigenousengineering.github.io }}">ᏗᏎᏍᏗᎤᎬᏩᎵ / home</a></p>
+        <p class="view"><a href="{{ twitter.com/indigenousai }}">twitter</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
