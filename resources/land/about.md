@@ -17,4 +17,4 @@ the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still
 * [shellmound walk](http://ipocshellmoundwalk.homestead.com/)
 * [Sogorea Te Land Trust](https://sogoreate-landtrust.com/)
 * [Idle No More](http://www.idlenomoresfbay.org/)
-* [Protect Juristac:](http://www.protectjuristac.org/) NO quarry on Sacred Mutsun Grounds
+* [Protect Juristac: No Quarry on Sacred Mutsun Grounds!](http://www.protectjuristac.org/)
