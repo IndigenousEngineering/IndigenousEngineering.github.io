@@ -12,7 +12,7 @@ the ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still
 * http://ohlonecostanoanesselennation.org/
 * http://indiancanyon.org/
 
-### get involved with indigenous-led organizations:
+### get involved with bay area indigenous-led organizations:
 
 * http://ipocshellmoundwalk.homestead.com/
 * https://sogoreate-landtrust.com/
