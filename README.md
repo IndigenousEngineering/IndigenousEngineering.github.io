@@ -7,7 +7,7 @@ welcome to indigenous.engineering
 ### [resources](https://IndigenousEngineering.github.io/resources/all.html)
 ### [land](https://IndigenousEngineering.github.io/resources/land/about.html)
 
-contact/social
+contact
 
 ### [github](https://github.com/IndigenousAI)
 ### [twitter](https://twitter.com/IndigenousAI)
