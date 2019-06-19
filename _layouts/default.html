@@ -19,10 +19,6 @@
         {% if site.logo %}
           <img src="{{site.logo | 'https://www.indigenousengineering.github.io' }}" alt="Logo" />
         {% endif %}
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
