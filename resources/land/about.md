@@ -6,15 +6,15 @@ the ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still
 
 ### ohlone tribes & bands:
 
-* ramaytush.org
-* amahmutsun.org
-* crc.nativeweb.org
-* ohlonecostanoanesselennation.org
-* indiancanyon.org
+* http://www.ramaytush.com/
+* http://amahmutsun.org/
+* http://crc.nativeweb.org/
+* http://ohlonecostanoanesselennation.org/
+* http://indiancanyon.org/
 
 ### get involved with indigenous-led organizations:
 
-* ipocshellmoundwalk.homestead.com
-* sogoreate-landtrust.org
+* http://ipocshellmoundwalk.homestead.com/
+* https://sogoreate-landtrust.com/
 * http://www.idlenomoresfbay.org/
-* protectjuristac.org
+* http://www.protectjuristac.org/
