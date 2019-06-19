@@ -12,7 +12,9 @@ the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still
 * [Ohlone Costanoan Esselen Nation](http://ohlonecostanoanesselennation.org/)
 * <http://indiancanyon.org/>
 
-### get involved with bay area indigenous-led organizations:
+### get involved 
+
+with bay area indigenous-led organizations:
 
 * [Indian People Organizing for Change (IPOC)](http://ipocshellmoundwalk.homestead.com/)
 * [Sogorea Te Land Trust](https://sogoreate-landtrust.com/)
@@ -20,3 +22,5 @@ the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still
 * [Protect Juristac: No Quarry on Sacred Mutsun Grounds!](http://www.protectjuristac.org/)
 
 ### not in the bay area? find out whose land you're on [here](https://native-land.ca/)
+Ohlone Costanoan
+Esselen Nation
