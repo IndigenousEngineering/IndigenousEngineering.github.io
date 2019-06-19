@@ -6,5 +6,3 @@ welcome to indigenous.engineering
 ### [blog](https://IndigenousEngineering.github.io/blog/home.html)
 ### [resources](https://IndigenousEngineering.github.io/resources/all.html)
 ### [about](https://IndigenousEngineering.github.io/blog/about.html)
-
-## latest:
