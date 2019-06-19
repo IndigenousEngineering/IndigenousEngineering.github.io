@@ -1,4 +1,4 @@
-# ᏗᏎᏍᏗᎤᎬᏩᎵ means mathematics
+# ᏗᏎᏍᏗᎤᎬᏩᎵ means mathematics.
 
 welcome to indigenous.engineering
 
@@ -6,3 +6,5 @@ welcome to indigenous.engineering
 ### [blog](https://IndigenousEngineering.github.io/blog/home.html)
 ### [resources](https://IndigenousEngineering.github.io/resources/all.html)
 ### [about](https://IndigenousEngineering.github.io/blog/about.html)
+
+## latest:
