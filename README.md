@@ -9,5 +9,6 @@ welcome to indigenous.engineering
 
 contact/social
 
-* [github](https://github.com/IndigenousAI)
-* [twitter](https://twitter.com/IndigenousAI)
+### [github](https://github.com/IndigenousAI)
+### [twitter](https://twitter.com/IndigenousAI)
+### [email](mailto:susanna@diverge.ai)
