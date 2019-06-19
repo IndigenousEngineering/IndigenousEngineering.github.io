@@ -1,8 +1,8 @@
-# you are on [indigenous land.](https://native-land.ca/)
+# you are on indigenous land.
 
 indigenous.engineering research takes place on Ohlone land, in what is also known as the san francisco bay area
 
-the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still [caring for the land](https://sogoreate-landtrust.com/our-vision/)
+the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still [caring for the land.](https://sogoreate-landtrust.com/our-vision/)
 
 ### ohlone tribes & bands:
 
