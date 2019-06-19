@@ -14,7 +14,7 @@ the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still
 
 ### get involved with bay area indigenous-led organizations:
 
-* [shellmound walk](http://ipocshellmoundwalk.homestead.com/)
+* [Indian People Organizing for Change (IPOC)](http://ipocshellmoundwalk.homestead.com/)
 * [Sogorea Te Land Trust](https://sogoreate-landtrust.com/)
 * [Idle No More](http://www.idlenomoresfbay.org/)
 * [Protect Juristac: No Quarry on Sacred Mutsun Grounds!](http://www.protectjuristac.org/)
