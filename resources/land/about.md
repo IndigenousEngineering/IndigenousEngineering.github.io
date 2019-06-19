@@ -19,6 +19,4 @@ the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still
 * [Idle No More](http://www.idlenomoresfbay.org/)
 * [Protect Juristac: No Quarry on Sacred Mutsun Grounds!](http://www.protectjuristac.org/)
 
-### find out whose tribal lands you are on [here]((https://native-land.ca/) 
-
-and then reach out to see how you can get involved!
+### not in the bay area? find out whose tribal lands you are on [here]((https://native-land.ca/)
