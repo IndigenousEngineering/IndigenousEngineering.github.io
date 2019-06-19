@@ -4,7 +4,7 @@ indigenous.engineering research takes place on Ohlone land, in what is also know
 
 the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still [caring for the land.](https://sogoreate-landtrust.com/our-vision/)
 
-### ohlone tribes & bands:
+### ohlone tribes & bands
 
 * [the Ramaytush Ohlone](http://www.ramaytush.com/)
 * [Amah Mutson Tribal Band](http://amahmutsun.org/)
@@ -21,6 +21,7 @@ with bay area indigenous-led organizations:
 * [Idle No More](http://www.idlenomoresfbay.org/)
 * [Protect Juristac: No Quarry on Sacred Mutsun Grounds!](http://www.protectjuristac.org/)
 
-### not in the bay area? find out whose land you're on [here](https://native-land.ca/)
-Ohlone Costanoan
-Esselen Nation
+### not in the bay area? 
+
+find out whose land you're on [here](https://native-land.ca/)
+
