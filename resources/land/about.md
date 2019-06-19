@@ -4,7 +4,7 @@ indigenous.engineering research takes place on Ohlone land, in what is also know
 
 the Ohlone people(s) are [still here,](https://sogoreate-landtrust.com/) & still [caring for the land.](https://sogoreate-landtrust.com/our-vision/)
 
-### ohlone tribes & bands
+### Ohlone tribes & bands
 
 * [the Ramaytush Ohlone](http://www.ramaytush.com/)
 * [Amah Mutson Tribal Band](http://amahmutsun.org/)
