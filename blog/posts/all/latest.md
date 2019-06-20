@@ -1,1 +1,1 @@
-
+["semantic space & size: a proof-of-concept for exploring cultural bias on (very) small corpora using cosine similarity and word2vec"](IndigenousEngineering.github.io/blog/posts/semantic_space_and_size.html) _(orginally published january 2019)_
