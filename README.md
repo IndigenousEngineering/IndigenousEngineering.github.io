@@ -6,9 +6,4 @@ welcome to indigenous.engineering
 ### [projects](https://IndigenousEngineering.github.io/projects/all.html)
 ### [resources](https://IndigenousEngineering.github.io/resources/all.html)
 ### [land](https://IndigenousEngineering.github.io/resources/land/about.html)
-
-contact
-
-### [github](https://github.com/IndigenousAI)
-### [twitter](https://twitter.com/IndigenousAI)
-### [email](mailto:susanna@diverge.ai)
+### [contact](https://IndigenousEngineering.github.io/about/contact.html)
