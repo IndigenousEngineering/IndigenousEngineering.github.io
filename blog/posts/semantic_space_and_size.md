@@ -248,6 +248,6 @@ Thanks in advance for your time, and for taking the time to read this.
 
 \***
 
-*code for this project in [this repo](https://github.com/IndigenousEngineering/WEAT_analysis_1)*
+*code for this project in [this repo](https://github.com/IndigenousEngineering/small_corpora_bias_with_w2v)*
 
 
