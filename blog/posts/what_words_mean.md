@@ -117,5 +117,3 @@ If computer vision’s “ImageNet moment” can teach NLP practitioners anythin
 
 
 \***
-
-[Indigenous Engineering blog](https://www.diverge.ai/#blog)
