@@ -3,7 +3,7 @@
 welcome to indigenous.engineering
 
 ### [blog](https://IndigenousEngineering.github.io/blog/home.html)
-### [projects](https://IndigenousEngineering.github.io/projects/all.html)
+### [projects](https://IndigenousEngineering.github.io/projects/home.html)
 ### [resources](https://IndigenousEngineering.github.io/resources/all.html)
 ### [land](https://IndigenousEngineering.github.io/resources/land/about.html)
 ### [contact](https://IndigenousEngineering.github.io/about/contact.html)
