@@ -1,4 +1,4 @@
-# projects by date
+# ᏓᎾᏓᏁᎲᎢ / projects by date
 
 [january 2019](#january-2019)
 
