@@ -1,4 +1,4 @@
-# projects by topic
+# ᏓᎾᏓᏁᎲᎢ / projects by topic
 
 [bias and WEAT](#bias-and-WEAT)
 
