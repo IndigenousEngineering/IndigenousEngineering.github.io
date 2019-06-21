@@ -8,7 +8,7 @@
 
 In 2017, [Caliskan et al](https://purehost.bath.ac.uk/ws/portalfiles/portal/168480066/CaliskanEtAl_authors_full.pdf) published their Word Embedding Association Test (WEAT), which explored relationships similar to those in the [Implicit Association Test (IAT)](https://implicit.harvard.edu/implicit/iatdetails.html) in GloVe word embedding models, using words as subjects rather than people. Using [cosine similarity](http://www.minerazzi.com/tutorials/cosine-similarity-tutorial.pdf) as a measure for correlation and stand-in for the IAT’s reaction time, the authors were able to replicate a number of well-known social biases.
 
-I [wrote about this paper before](https://neurodivergent-ai.github.io/blog/post_1.html), including one aspect the authors introduce that I found particularly fascinating: 
+I [wrote about this paper before](https://indigenousengineering.github.io/blog/posts/what_words_mean.html), including one aspect the authors introduce that I found particularly fascinating: 
 
 > *...our methods could be used to quickly find differences in bias between demographic groups, given large corpora authored by members of the respective groups. If substantiated through testing and replication, WEAT may also give us access to implicit associations of groups not available for testing, such as historic populations.*
 
