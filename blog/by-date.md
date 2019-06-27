@@ -1,4 +1,4 @@
-# ᎠᏃᏪᎵᏍᎬ / blog posts by date
+# ᏗᎪᎥ ᏃᎵᏍᎬ / blog posts by date
 
 [november 2018](#november-2018)
 
