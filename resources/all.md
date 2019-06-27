@@ -13,5 +13,5 @@
 
 * [Deep Learning (MIT Press, complete book online), by Ian Goodfellow, Yoshua Bengio & Aaron Courville](http://www.deeplearningbook.org/)
 
-* [Neural Networks & Deep Learning (book) by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
+* [Neural Networks & Deep Learning (complete book online) by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
 
