@@ -1,5 +1,5 @@
 # ᏧᎬᏩᎶᏗᎦᎷᎩ / resources
-by topic:
+### by topic:
 
 [learn to code](#learn-to-code)
 
