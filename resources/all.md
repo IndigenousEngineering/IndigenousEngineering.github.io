@@ -9,7 +9,7 @@
 
 ### learn to code
 
-* [code academy](https://www.codecademy.com/learn/learn-how-to-code)
+* [Code Academy](https://www.codecademy.com/learn/learn-how-to-code)
 
 ### deep learning
 
