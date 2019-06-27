@@ -1,11 +1,11 @@
 # ᏧᎬᏩᎶᏗᎦᎷᎩ / resources
 ### by topic:
 
-[learn to code](#learn-to-code)
+[learn to code](##learn-to-code)
 
 [deep learning](#deep-learning)
 
-# learn to code
+## learn to code
 
 * [code academy](https://www.codecademy.com/learn/learn-how-to-code)
 
