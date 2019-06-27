@@ -1,11 +1,11 @@
 # ᏧᎬᏩᎶᏗᎦᎷᎩ / resources
 ## by topic:
 
-* # [learn to code](#learn-to-code)
+* ### [learn to code](#learn-to-code)
 
-* [deep learning](#deep-learning)
+* ### [deep learning](#deep-learning)
 
-* [RNNs: LSTMs](#lstms)
+* ### [RNNs: LSTMs](#lstms)
 
 
 #### learn to code
