@@ -5,13 +5,18 @@
 
 * [deep learning](#deep-learning)
 
-* [RNNs: LSTMs](#lstms)
 
-### learn to code
+## learn to code
 
 * [Code Academy](https://www.codecademy.com/learn/learn-how-to-code)
 
-### deep learning
+## deep learning
+
+* [general theory](#general-theory)
+
+* [RNNs: LSTMs](#lstms)
+
+### general theory
 
 * [Deep Learning (MIT Press, complete book online), by Ian Goodfellow, Yoshua Bengio & Aaron Courville](http://www.deeplearningbook.org/)
 
