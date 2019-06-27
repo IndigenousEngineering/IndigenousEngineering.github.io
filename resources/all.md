@@ -15,4 +15,3 @@ by topic:
 
 * [Neural Networks & Deep Learning (book) by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
 
-[return home](https://indigenousengineering.github.io)
