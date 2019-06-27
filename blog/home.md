@@ -1,4 +1,4 @@
-# ᎠᏃᏪᎵᏍᎬ / blog
+# ᏗᎪᎥ ᏃᎵᏍᎬ / blog
 
 welcome to the indigenous.engineering blog
 
