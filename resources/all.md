@@ -32,3 +32,7 @@
 
 * [Back propagation with TensorFlow](http://blog.aloni.org/posts/backprop-with-tensorflow/)
 
+* [Build & Train an ANN in python](http://www.welchlabs.com/blog/2015/1/16/neural-networks-demystified-part-1-data-and-architecture)
+
+
+
