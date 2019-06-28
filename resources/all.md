@@ -26,7 +26,7 @@
 
 #### learning AI through code
 
-* [build a basic neural network in python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+* [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 
 * [Back propagation with TensorFlow](http://blog.aloni.org/posts/backprop-with-tensorflow/)
 
