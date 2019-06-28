@@ -7,6 +7,8 @@
 
 * ### [RNNs: LSTMs](#lstms)
 
+* ### [learning AI through code](#learning-AI-through_code)
+
 
 #### learn to code
 
@@ -21,4 +23,8 @@
 #### LSTMs
 
 * [Understanding LSTM Networks, colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+#### learning AI through code
+
+* [build a basic neural network in python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 
