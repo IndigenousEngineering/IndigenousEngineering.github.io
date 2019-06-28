@@ -44,8 +44,7 @@
     * [Density Estimation](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.3-Density-GMM.ipynb)
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
-    
-* [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
+
 
 #### deep learning
 
@@ -66,6 +65,7 @@
 * [Back propagation with TensorFlow](http://blog.aloni.org/posts/backprop-with-tensorflow/)
 
 * [Build & Train an ANN in python](http://www.welchlabs.com/blog/2015/1/16/neural-networks-demystified-part-1-data-and-architecture)
-
+    
+* [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
 
