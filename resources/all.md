@@ -28,5 +28,5 @@
 
 * [build a basic neural network in python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 
-* [Back propagation with TensorFlow, Dan Aloni's blog](http://blog.aloni.org/posts/backprop-with-tensorflow/)
+* [Back propagation with TensorFlow](http://blog.aloni.org/posts/backprop-with-tensorflow/)
 
