@@ -20,6 +20,8 @@
 
 * [Neural Networks & Deep Learning (complete book online) by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
 
+* [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
 #### RNNs and LSTMs
 
 * [Understanding LSTM Networks, colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
