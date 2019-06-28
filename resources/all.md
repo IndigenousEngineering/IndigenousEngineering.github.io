@@ -7,7 +7,7 @@
 
 * ### [RNNs: LSTMs](#lstms)
 
-* ### [learning AI through code](#learning-AI-through_code)
+* ### [learning AI through code](#learning-ai-through_code)
 
 
 #### learn to code
