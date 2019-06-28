@@ -35,6 +35,8 @@
     * [Density Estimation](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.3-Density-GMM.ipynb)
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
+    
+* [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
 #### deep learning
 
