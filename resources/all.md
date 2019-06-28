@@ -3,6 +3,8 @@
 
 * ### [learn to code](#learn-to-code)
 
+* ### [machine learning](#machine-learning)
+
 * ### [deep learning](#deep-learning)
 
 * ### [RNNs / LSTMs](#rnns-and-lstms)
@@ -13,6 +15,26 @@
 #### learn to code
 
 * [Code Academy](https://www.codecademy.com/learn/learn-how-to-code)
+
+#### machine learning
+
+* jupyter notebooks in the series Machine Learning with scikit-learn, by Jake Vanderplas:
+
+    * [Basic Principles of Machine Learning](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/02.2-Basic-Principles.ipynb)
+
+    * [Linear Regression](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb)
+
+    * [Support Vector Machines](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/03.1-Classification-SVMs.ipynb)
+
+    * [Regression Forests](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/03.2-Regression-Forests.ipynb)
+
+    * [Dimensionality Reduction](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.1-Dimensionality-PCA.ipynb)
+
+    * [K-Means Clustering](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.2-Clustering-KMeans.ipynb)
+
+    * [Density Estimation](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.3-Density-GMM.ipynb)
+
+    * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
 #### deep learning
 
