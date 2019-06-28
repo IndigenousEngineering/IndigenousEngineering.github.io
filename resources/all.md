@@ -3,6 +3,8 @@
 
 * ### [learn to code](#learn-to-code)
 
+* ### [data science](#data-science)
+
 * ### [machine learning](#machine-learning)
 
 * ### [deep learning](#deep-learning)
@@ -15,6 +17,13 @@
 #### learn to code
 
 * [Code Academy](https://www.codecademy.com/learn/learn-how-to-code)
+
+#### data science
+
+* [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
+
+* [Python Tutorial for Data Science](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+
 
 #### machine learning
 
