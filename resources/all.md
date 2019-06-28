@@ -5,7 +5,7 @@
 
 * ### [deep learning](#deep-learning)
 
-* ### [RNNs: LSTMs](#lstms)
+* ### [RNNs / LSTMs](#rnns-and-lstms)
 
 * ### [learning AI through code](#learning-ai-through-code)
 
@@ -20,7 +20,7 @@
 
 * [Neural Networks & Deep Learning (complete book online) by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
 
-#### LSTMs
+#### RNNs and LSTMs
 
 * [Understanding LSTM Networks, colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
