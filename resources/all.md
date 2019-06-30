@@ -40,7 +40,7 @@
 
 #### machine learning
 
-* jupyter notebooks in the series Machine Learning with scikit-learn, by Jake Vanderplas:
+* jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
     * [Basic Principles of Machine Learning](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/02.2-Basic-Principles.ipynb)
 
