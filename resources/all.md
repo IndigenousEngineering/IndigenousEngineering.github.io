@@ -10,11 +10,11 @@
 
 [deep learning](#deep-learning)
 
-* [RNNs / LSTMs](#rnns-and-lstms)
+[RNNs / LSTMs](#rnns-and-lstms)
 
-* [learning AI through code](#learning-ai-through-code)
+[learning AI through code](#learning-ai-through-code)
 
-* [free courses](#free-courses)
+[free courses](#free-courses)
 
 
 #### learn to code
