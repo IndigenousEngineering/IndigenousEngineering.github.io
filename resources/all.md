@@ -2,11 +2,11 @@
 
 ### by topic:
 
-* [learn to code](#learn-to-code)
+[learn to code](#learn-to-code)
 
 * [data science](#data-science)
 
-* [machine learning](#machine-learning)
+[machine learning](#machine-learning)
 
 * [deep learning](#deep-learning)
 
