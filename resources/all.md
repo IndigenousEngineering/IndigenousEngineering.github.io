@@ -46,6 +46,13 @@
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
+* free courses:
+    * [Machine Learning, Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning#syllabus)
+    
+    * [Machine Learning, Georgia Tech (Udacity)](https://www.udacity.com/course/machine-learning--ud262#)
+    
+    * [Stanford CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) [class link](http://web.stanford.edu/class/cs224n/)
+
 
 #### deep learning
 
