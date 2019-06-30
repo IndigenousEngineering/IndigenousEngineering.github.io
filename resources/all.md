@@ -51,7 +51,7 @@
     
     * [Machine Learning, Georgia Tech (Udacity)](https://www.udacity.com/course/machine-learning--ud262#)
     
-    * [Stanford CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) [class link](http://web.stanford.edu/class/cs224n/)
+    * [Stanford CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) [(class link)](http://web.stanford.edu/class/cs224n/)
 
 
 #### deep learning
