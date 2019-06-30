@@ -4,7 +4,7 @@
 
 [learn to code](#learn-to-code)
 
-* [data science](#data-science)
+[data science](#data-science)
 
 [machine learning](#machine-learning)
 
