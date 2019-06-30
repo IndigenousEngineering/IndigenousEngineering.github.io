@@ -8,7 +8,7 @@
 
 [machine learning](#machine-learning)
 
-* [deep learning](#deep-learning)
+[deep learning](#deep-learning)
 
 * [RNNs / LSTMs](#rnns-and-lstms)
 
