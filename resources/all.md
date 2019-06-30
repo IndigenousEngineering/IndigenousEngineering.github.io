@@ -1,18 +1,18 @@
 # ᏧᎬᏩᎶᏗᎦᎷᎩ / resources
 
-## by topic:
+### by topic:
 
-* ### [learn to code](#learn-to-code)
+* [learn to code](#learn-to-code)
 
-* ### [data science](#data-science)
+* [data science](#data-science)
 
-* ### [machine learning](#machine-learning)
+* [machine learning](#machine-learning)
 
-* ### [deep learning](#deep-learning)
+* [deep learning](#deep-learning)
 
 * [RNNs / LSTMs](#rnns-and-lstms)
 
-* ### [learning AI through code](#learning-ai-through-code)
+* [learning AI through code](#learning-ai-through-code)
 
 * [free courses](#free-courses)
 
