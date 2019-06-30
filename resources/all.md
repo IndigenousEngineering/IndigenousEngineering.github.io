@@ -21,6 +21,16 @@
 
 * [Code Academy](https://www.codecademy.com/learn/learn-how-to-code)
 
+* [Google's Python Class](https://developers.google.com/edu/python/)
+
+* practice coding:
+
+    * [Coderbyte](https://coderbyte.com/)
+    
+    * [Codewars](https://www.codewars.com/)
+    
+    * [HackerRank](https://www.hackerrank.com/)
+
 #### data science
 
 * [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
