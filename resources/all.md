@@ -72,7 +72,7 @@
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
 
-#### free courses:
+#### free courses
 
 * [Machine Learning, Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning#syllabus)
     
