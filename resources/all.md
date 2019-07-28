@@ -40,6 +40,11 @@
 
 #### machine learning
 
+* models
+
+    * support vector machines
+        * another thing here
+
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
     * [Basic Principles of Machine Learning](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/02.2-Basic-Principles.ipynb)
