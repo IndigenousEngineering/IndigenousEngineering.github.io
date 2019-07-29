@@ -51,6 +51,8 @@
     * linear regression
     
         * [Penn State STAT 501: What Is Simple Linear Regression?](https://newonlinecourses.science.psu.edu/stat501/node/251/)
+        
+        * [Simple AI: Linear Regression](https://medium.com/simple-ai/linear-regression-intro-to-machine-learning-6-6e320dbdaf06)
      
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
