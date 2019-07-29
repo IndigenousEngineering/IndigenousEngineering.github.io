@@ -48,6 +48,11 @@
         
         * [Towards Data Science: Support Vector Machine Model From Scratch](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
+    * linear regression
+    
+        * [Penn State STAT 501: What Is Simple Linear Regression?](https://newonlinecourses.science.psu.edu/stat501/node/251/)
+     
+
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
     * [Basic Principles of Machine Learning](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/02.2-Basic-Principles.ipynb)
