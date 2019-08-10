@@ -6,4 +6,4 @@ welcome to indigenous.engineering
 ### [ᏓᎾᏓᏁᎲᎢ / projects](https://IndigenousEngineering.github.io/projects/home.html)
 ### [ᏧᎬᏩᎶᏗᎦᎷᎩ / resources](https://IndigenousEngineering.github.io/resources/all.html)
 ### [land](https://IndigenousEngineering.github.io/about/land.html)
-### [contact](https://IndigenousEngineering.github.io/about/contact.html)
+### [ᏚᏓᏂᏴᏒ / contact](https://IndigenousEngineering.github.io/about/contact.html)
