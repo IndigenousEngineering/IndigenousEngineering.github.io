@@ -11,6 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     
+    
+  </head>
+  <body>
     <div class="wrapper">
       
        <header style="position:relative">
@@ -18,9 +21,6 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-  </head>
-  <body>
-    
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>       
 
