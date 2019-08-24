@@ -23,7 +23,7 @@
 
 * [Google's Python Class](https://developers.google.com/edu/python/)
 
-* #### practice coding
+* practice coding
 
     * [Coderbyte](https://coderbyte.com/)
     
