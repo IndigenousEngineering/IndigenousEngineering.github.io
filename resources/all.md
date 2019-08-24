@@ -43,6 +43,20 @@
 
 #### machine learning
 
+* supervised, unsupervised, and reinforcement learning
+
+    * [GeeksForGeeks: Supervised and Unsupervised learning](https://www.geeksforgeeks.org/supervised-unsupervised-learning/)
+    
+    * [Supervised and Unsupervised Machine Learning Algorithms](https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/)
+    
+    * [SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/)
+    
+    * [ML Basics: supervised, unsupervised and reinforcement learning](https://medium.com/@machadogj/ml-basics-supervised-unsupervised-and-reinforcement-learning-b18108487c5a)
+    
+    * [Machine Learning Explained: supervised learning, unsupervised learning, and reinforcement learning](http://enhancedatascience.com/2017/07/19/machine-learning-explained-supervised-learning-unsupervised-learning-and-reinforcement-learning/)
+    
+    * [Machine Learning 101 | Supervised, Unsupervised, Reinforcement & Beyond](https://towardsdatascience.com/machine-learning-101-supervised-unsupervised-reinforcement-beyond-f18e722069bc)
+
 * models
 
     * support vector machines
