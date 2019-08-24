@@ -73,9 +73,9 @@
         
         * [Simple AI: Linear Regression](https://medium.com/simple-ai/linear-regression-intro-to-machine-learning-6-6e320dbdaf06)
         
-        * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)(math-heavy)
+        * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/) (math-heavy)
         
-        * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)(some math, more code)
+        * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) (some math, more code)
      
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
