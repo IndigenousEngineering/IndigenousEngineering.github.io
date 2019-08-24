@@ -90,6 +90,9 @@
 
 * [Understanding LSTM Networks, colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+* [A Gentle Introduction to RNN Unrolling](https://machinelearningmastery.com/rnn-unrolling/)
+
+
 #### learning AI through code
 
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
