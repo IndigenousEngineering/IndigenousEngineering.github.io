@@ -31,7 +31,9 @@
     
     * [HackerRank](https://www.hackerrank.com/)
 
-#### data science | [back to top](#by-topic)
+#### data science
+
+[back to top](#by-topic)
 
 * [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
 
