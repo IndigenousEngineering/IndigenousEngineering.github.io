@@ -31,9 +31,9 @@
     
     * [HackerRank](https://www.hackerrank.com/)
 
-#### data science
-
 [back to top](#by-topic)
+
+#### data science
 
 * [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
 
@@ -42,6 +42,8 @@
 * [Python Tutorial for Data Science](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
+
+[back to top](#by-topic)
 
 #### machine learning
 
@@ -98,6 +100,7 @@
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
+[back to top](#by-topic)
 
 #### deep learning
 
@@ -107,12 +110,15 @@
 
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
+[back to top](#by-topic)
+
 #### RNNs and LSTMs
 
 * [Understanding LSTM Networks, colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 * [A Gentle Introduction to RNN Unrolling](https://machinelearningmastery.com/rnn-unrolling/)
 
+[back to top](#by-topic)
 
 #### learning AI through code
 
@@ -124,6 +130,7 @@
     
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
+[back to top](#by-topic)
 
 #### free courses
 
@@ -137,4 +144,4 @@
 
 * [Oxford Deep NLP (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-
+[back to top](#by-topic)
