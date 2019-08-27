@@ -16,6 +16,8 @@
 
 [free courses](#free-courses)
 
+[mathematics](#mathematics)
+
 
 #### learn to code
 
@@ -145,3 +147,9 @@
 * [Oxford Deep NLP (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 [back to top](#by-topic)
+
+#### mathematics
+
+* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
+
+
