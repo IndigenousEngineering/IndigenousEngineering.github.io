@@ -12,6 +12,8 @@
 
 [RNNs / LSTMs](#rnns-and-lstms)
 
+[data visualization](#data-visualization)
+
 [learning AI through code](#learning-ai-through-code)
 
 [free courses](#free-courses)
@@ -121,6 +123,8 @@
 * [A Gentle Introduction to RNN Unrolling](https://machinelearningmastery.com/rnn-unrolling/)
 
 [back to top](#by-topic)
+
+#### data visualization
 
 #### learning AI through code
 
