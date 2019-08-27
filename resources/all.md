@@ -8,6 +8,8 @@
 
 [machine learning](#machine-learning)
 
+[mathematics](#mathematics)
+
 [deep learning](#deep-learning)
 
 [RNNs / LSTMs](#rnns-and-lstms)
@@ -17,9 +19,6 @@
 [learning AI through code](#learning-ai-through-code)
 
 [free courses](#free-courses)
-
-[mathematics](#mathematics)
-
 
 #### learn to code
 
@@ -106,6 +105,12 @@
 
 [back to top](#by-topic)
 
+#### mathematics
+
+* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
+
+* [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
+
 #### deep learning
 
 * [Deep Learning (MIT Press, complete book online), by Ian Goodfellow, Yoshua Bengio & Aaron Courville](http://www.deeplearningbook.org/)
@@ -154,10 +159,5 @@
 
 [back to top](#by-topic)
 
-#### mathematics
-
-* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
-
-* [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
 
 
