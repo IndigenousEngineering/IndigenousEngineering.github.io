@@ -111,6 +111,8 @@
 
 * [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
 
+[back to top](#by-topic)
+
 #### deep learning
 
 * [Deep Learning (MIT Press, complete book online), by Ian Goodfellow, Yoshua Bengio & Aaron Courville](http://www.deeplearningbook.org/)
@@ -132,6 +134,8 @@
 #### data visualization
 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
+
+[back to top](#by-topic)
 
 #### learning AI through code
 
