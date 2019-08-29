@@ -94,8 +94,7 @@
     
         * [Random Forest in Python: A Practical End-to-End Machine Learning Example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
         
-        
-     
+        * [An Introduction To Building a Classification Model Using Random Forests In Python](https://www.datascience.com/blog/classification-random-forests-in-python)
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
