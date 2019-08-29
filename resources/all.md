@@ -147,6 +147,8 @@
 
 * [Accessing the Twitter API with Python](https://stackabuse.com/accessing-the-twitter-api-with-python/)
 
+* [How to scrape Reddit with Python](http://www.storybench.org/how-to-scrape-reddit-with-python/)
+
 #### learning AI through code
 
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
