@@ -36,7 +36,7 @@
     
     * [HackerRank](https://www.hackerrank.com/)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### data science
 
@@ -48,7 +48,7 @@
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### machine learning
 
@@ -105,7 +105,7 @@
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### mathematics
 
@@ -115,7 +115,7 @@
 
 * [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### deep learning
 
