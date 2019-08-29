@@ -163,7 +163,7 @@
     
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### free courses
 
@@ -177,7 +177,7 @@
 
 * [Oxford Deep NLP (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 
 
