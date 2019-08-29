@@ -158,6 +158,10 @@
 
 * [How to scrape Reddit with Python](http://www.storybench.org/how-to-scrape-reddit-with-python/)
 
+* [How to scrape websites with Python and BeautifulSoup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/)
+
+* [Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
+
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
 
 *[back to top](#by-topic)*
