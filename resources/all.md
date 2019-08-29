@@ -16,6 +16,8 @@
 
 [data visualization](#data-visualization)
 
+[building datasets](#building-datasets)
+
 [learning AI through code](#learning-ai-through-code)
 
 [free courses](#free-courses)
@@ -138,6 +140,10 @@
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
 [back to top](#by-topic)
+
+#### building datasets
+
+
 
 #### learning AI through code
 
