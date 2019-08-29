@@ -28,7 +28,7 @@
 
 * [Google's Python Class](https://developers.google.com/edu/python/)
 
-* practice coding
+* practice coding:
 
     * [Coderbyte](https://coderbyte.com/)
     
@@ -139,7 +139,7 @@
 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### building datasets
 
@@ -151,7 +151,7 @@
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### learning AI through code
 
