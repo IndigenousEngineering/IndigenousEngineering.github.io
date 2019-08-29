@@ -145,6 +145,8 @@
 
 * [Get and Work With Twitter Data in Python Using Tweepy](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)
 
+* [Accessing the Twitter API with Python](https://stackabuse.com/accessing-the-twitter-api-with-python/)
+
 #### learning AI through code
 
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
