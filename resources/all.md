@@ -16,7 +16,7 @@
 
 [data visualization](#data-visualization)
 
-[building datasets](#building-datasets)
+[scraping and building datasets](#scraping-and-building-datasets)
 
 [learning AI through code](#learning-ai-through-code)
 
@@ -150,7 +150,7 @@
 
 *[back to top](#by-topic)*
 
-#### building datasets
+#### scraping and building datasets
 
 * [Get and Work With Twitter Data in Python Using Tweepy](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)
 
