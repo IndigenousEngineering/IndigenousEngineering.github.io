@@ -143,7 +143,7 @@
 
 #### building datasets
 
-
+* [Get and Work With Twitter Data in Python Using Tweepy](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)
 
 #### learning AI through code
 
