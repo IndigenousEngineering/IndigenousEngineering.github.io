@@ -149,6 +149,8 @@
 
 * [How to scrape Reddit with Python](http://www.storybench.org/how-to-scrape-reddit-with-python/)
 
+* [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
+
 #### learning AI through code
 
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
