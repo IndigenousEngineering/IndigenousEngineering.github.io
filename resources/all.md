@@ -125,7 +125,7 @@
 
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### RNNs and LSTMs
 
@@ -133,7 +133,7 @@
 
 * [A Gentle Introduction to RNN Unrolling](https://machinelearningmastery.com/rnn-unrolling/)
 
-[back to top](#by-topic)
+*[back to top](#by-topic)*
 
 #### data visualization
 
@@ -150,6 +150,8 @@
 * [How to scrape Reddit with Python](http://www.storybench.org/how-to-scrape-reddit-with-python/)
 
 * [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
+
+[back to top](#by-topic)
 
 #### learning AI through code
 
