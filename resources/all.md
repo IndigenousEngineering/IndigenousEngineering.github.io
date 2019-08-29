@@ -107,6 +107,8 @@
 
 #### mathematics
 
+* Khan Academy Algebra Courses (in order): [Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) (start here & skip if the concepts are familiar), [Algebra 1](https://www.khanacademy.org/math/algebra), [Algebra 2](https://www.khanacademy.org/math/algebra2) 
+
 * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
 
 * [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
