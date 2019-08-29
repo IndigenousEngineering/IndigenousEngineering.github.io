@@ -88,7 +88,13 @@
     
     * random forests
     
+        * [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
+        
+        * [Random Forest Simple Explanation](https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d) *note: whether an explanation is 'simple' or not depends on a lot of factors that can have nothing to do with the person learning, so don't let the title intimidate you if this is not the explanation for you!*
+    
         * [Random Forest in Python: A Practical End-to-End Machine Learning Example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
+        
+        
      
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
