@@ -1,6 +1,8 @@
 # ᏧᎬᏩᎶᏗᎦᎷᎩ / resources
 
-### by topic: [(all]](#all)
+### by topic:
+
+[(all]](#all)
 
 [learn to code](#learn-to-code)
 
