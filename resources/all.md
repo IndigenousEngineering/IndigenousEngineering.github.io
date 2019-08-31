@@ -2,7 +2,7 @@
 
 ### by topic:
 
-[(all)](#all)
+[all topics](#all)
 
 [learn to code](#learn-to-code)
 
