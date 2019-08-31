@@ -66,7 +66,7 @@
     
     * [Machine Learning 101: Supervised, Unsupervised, Reinforcement & Beyond](https://towardsdatascience.com/machine-learning-101-supervised-unsupervised-reinforcement-beyond-f18e722069bc)
 
-* models
+* algorithms
 
     * support vector machines
     
