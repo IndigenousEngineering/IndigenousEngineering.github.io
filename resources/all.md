@@ -101,6 +101,8 @@
         * [Naive Bayes for Machine Learning](https://machinelearningmastery.com/naive-bayes-for-machine-learning/)
         
         * [Naive Bayes Classifiers](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+        
+        * [How the Naive Bayes Classifier works in Machine Learning](https://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/)
 
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
