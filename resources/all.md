@@ -89,6 +89,8 @@
         * [Linear Regression in Python](https://realpython.com/linear-regression-in-python/) (math-heavy)
         
         * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) (some math, more code)
+        
+        * [In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html)
     
     * random forests
     
