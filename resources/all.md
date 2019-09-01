@@ -79,6 +79,8 @@
         * [Towards Data Science: Support Vector Machine Model From Scratch](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
         
         * [Understanding Support Vector Machines Algorithm (Along With Code)](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+        
+        * [In-Depth: Support Vector Machines](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)
 
     * linear regression
     
