@@ -118,7 +118,7 @@
     
         * [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
         
-        * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) (code-heavy demo in python, followed by a simpler demo using scikit-learn)
+        * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) *(code-heavy demo in python, followed by a simpler demo using scikit-learn)*
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
