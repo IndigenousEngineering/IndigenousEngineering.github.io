@@ -113,6 +113,12 @@
         * [How the Naive Bayes Classifier works in Machine Learning](https://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/)
         
         * [In Depth: Naive Bayes Classification](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
+    
+    * k-means clustering
+    
+        * [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
+        
+        * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) code-heavy demo in python, followed by a simpler demo using scikit-learn
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
@@ -163,8 +169,6 @@
 *[back to top](#by-topic)*
 
 #### data visualization
-
-* [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
