@@ -176,6 +176,8 @@
 
 * [How to implement a simple RNN](https://peterroelants.github.io/posts/rnn-implementation-part01/)
 
+* [Recurrent Neural Network (RNN) basics and the Long Short Term Memory (LSTM) cell](https://pythonprogramming.net/recurrent-neural-network-rnn-lstm-machine-learning-tutorial/)
+
 *[back to top](#by-topic)*
 
 #### data visualization
