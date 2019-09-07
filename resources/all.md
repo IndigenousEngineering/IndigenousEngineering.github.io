@@ -86,7 +86,7 @@
     
 *[back to top](#by-topic)*
 
-    * linear regression
+   * linear regression
     
         * [Penn State STAT 501: What Is Simple Linear Regression?](https://newonlinecourses.science.psu.edu/stat501/node/251/)
         
@@ -100,7 +100,7 @@
     
 *[back to top](#by-topic)*
     
-    * logistic regression
+   * logistic regression
         
         * [Logistic Regression for Machine Learning](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
         
@@ -110,7 +110,7 @@
     
 *[back to top](#by-topic)*
     
-    * random forests
+   * random forests
     
         * [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
         
@@ -122,7 +122,7 @@
         
 *[back to top](#by-topic)*
     
-    * bayesian algorithms
+   * bayesian algorithms
         
         * [Naive Bayes for Machine Learning](https://machinelearningmastery.com/naive-bayes-for-machine-learning/)
         
@@ -132,7 +132,7 @@
         
         * [In Depth: Naive Bayes Classification](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
     
-    * k-means clustering
+   * k-means clustering
     
         * [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
         
