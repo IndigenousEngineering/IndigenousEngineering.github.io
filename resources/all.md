@@ -150,7 +150,13 @@
 
 #### mathematics
 
-* Khan Academy Algebra Courses (in order): [Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) (start here & skip if the concepts are familiar), [Algebra 1](https://www.khanacademy.org/math/algebra), [Algebra 2](https://www.khanacademy.org/math/algebra2) 
+* Khan Academy Algebra Courses (in order): [Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) (start here & skip if the concepts are familiar), [Algebra 1](https://www.khanacademy.org/math/algebra), [Algebra 2](https://www.khanacademy.org/math/algebra2)
+
+* [EdX Free Pre-Calculus Course](https://www.edx.org/course/precalculus-asux-mat170x) (credit eligible for a fee)
+
+* [Khan Academy Pre-Calculus Course](https://www.khanacademy.org/math/precalculus)
+
+* [MIT Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 
 * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
 
