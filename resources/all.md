@@ -69,6 +69,8 @@
     * [Machine Learning Explained: supervised learning, unsupervised learning, and reinforcement learning](http://enhancedatascience.com/2017/07/19/machine-learning-explained-supervised-learning-unsupervised-learning-and-reinforcement-learning/)
     
     * [Machine Learning 101: Supervised, Unsupervised, Reinforcement & Beyond](https://towardsdatascience.com/machine-learning-101-supervised-unsupervised-reinforcement-beyond-f18e722069bc)
+    
+*[back to top](#by-topic)*
 
 * algorithms
 
@@ -81,6 +83,8 @@
         * [Understanding Support Vector Machines Algorithm (Along With Code)](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
         
         * [In-Depth: Support Vector Machines](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)
+    
+*[back to top](#by-topic)*
 
     * linear regression
     
@@ -94,6 +98,8 @@
         
         * [In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html)
     
+*[back to top](#by-topic)*
+    
     * logistic regression
         
         * [Logistic Regression for Machine Learning](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
@@ -101,6 +107,8 @@
         * ["What is Wrong with Linear Regression for Classification?"](https://christophm.github.io/interpretable-ml-book/logistic.html)
         
         * [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
+    
+*[back to top](#by-topic)*
     
     * random forests
     
@@ -111,6 +119,8 @@
         * [Random Forest in Python: A Practical End-to-End Machine Learning Example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
         
         * [An Introduction To Building a Classification Model Using Random Forests In Python](https://www.datascience.com/blog/classification-random-forests-in-python)
+        
+*[back to top](#by-topic)*
     
     * bayesian algorithms
         
@@ -127,6 +137,8 @@
         * [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
         
         * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) *(code-heavy demo in python, followed by a simpler demo using scikit-learn)*
+    
+*[back to top](#by-topic)*
 
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
