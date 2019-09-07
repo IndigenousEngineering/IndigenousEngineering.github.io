@@ -156,7 +156,9 @@
 
 * [Khan Academy Pre-Calculus Course](https://www.khanacademy.org/math/precalculus)
 
-* [MIT Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+* [MIT Single Variable Calculus (Calculus 1)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+
+* [Khan Academy Calculus 1](https://www.khanacademy.org/math/calculus-1)
 
 * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
 
