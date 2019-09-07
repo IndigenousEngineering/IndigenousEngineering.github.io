@@ -174,6 +174,8 @@
 
 * [A Gentle Introduction to RNN Unrolling](https://machinelearningmastery.com/rnn-unrolling/)
 
+* [How to implement a simple RNN](https://peterroelants.github.io/posts/rnn-implementation-part01/)
+
 *[back to top](#by-topic)*
 
 #### data visualization
