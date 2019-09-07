@@ -99,6 +99,8 @@
         * [Logistic Regression for Machine Learning](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
         
         * ["What is Wrong with Linear Regression for Classification?"](https://christophm.github.io/interpretable-ml-book/logistic.html)
+        
+        * [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
     
     * random forests
     
