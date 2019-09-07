@@ -130,6 +130,8 @@
         
         * [K-means Clustering in Python](http://benalexkeen.com/k-means-clustering-in-python/) *(code-heavy demo in python, followed by a simpler demo using scikit-learn)*
 
+*[back to top](#by-topic)*
+
 * jupyter notebooks in the "Machine Learning with scikit-learn" series, by Jake Vanderplas:
 
     * [Basic Principles of Machine Learning](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/02.2-Basic-Principles.ipynb)
