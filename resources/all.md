@@ -94,6 +94,12 @@
         
         * [In Depth: Linear Regression](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html)
     
+    * logistic regression
+        
+        * [Logistic Regression for Machine Learning](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
+        
+        * ["What is Wrong with Linear Regression for Classification?"](https://christophm.github.io/interpretable-ml-book/logistic.html)
+    
     * random forests
     
         * [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
