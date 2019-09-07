@@ -178,6 +178,8 @@
 
 * [Recurrent Neural Network (RNN) basics and the Long Short Term Memory (LSTM) cell](https://pythonprogramming.net/recurrent-neural-network-rnn-lstm-machine-learning-tutorial/)
 
+* [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](https://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
+
 *[back to top](#by-topic)*
 
 #### data visualization
