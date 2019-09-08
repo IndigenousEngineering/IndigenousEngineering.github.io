@@ -224,6 +224,10 @@
 
 #### learning AI through code
 
+* [Implementing The Perceptron Algorithm From Scratch In Python](https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0)
+
+* [19-line Line-by-line Python Perceptron](https://medium.com/@thomascountz/19-line-line-by-line-python-perceptron-b6f113b161f3)
+
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 
 * [Back propagation with TensorFlow](http://blog.aloni.org/posts/backprop-with-tensorflow/)
