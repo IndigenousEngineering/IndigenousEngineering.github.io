@@ -71,11 +71,14 @@
     * [Machine Learning 101: Supervised, Unsupervised, Reinforcement & Beyond](https://towardsdatascience.com/machine-learning-101-supervised-unsupervised-reinforcement-beyond-f18e722069bc)
 
 * gradient descent
-
-    * [Gradient Descent](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html)
-
-
     
+    * [Understanding the Mathematics behind Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
+
+    * [Gradient Descent: ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html)
+    
+    * [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+
+
 *[back to top](#by-topic)*
 
 * algorithms
