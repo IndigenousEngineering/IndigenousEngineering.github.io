@@ -211,6 +211,8 @@
 
 * [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
+* [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
+
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_248)
 
 *[back to top](#by-topic)*
