@@ -189,6 +189,8 @@
 
 * [Perceptron — Deep Learning Basics](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6)
 
+* [Crash Course On Multi-Layer Perceptron Neural Networks](https://machinelearningmastery.com/neural-networks-crash-course/)
+
 *[back to top](#by-topic)*
 
 #### RNNs and LSTMs
