@@ -177,6 +177,8 @@
 
 * [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
 
+* [What's a Tensor? (Video)](https://www.youtube.com/watch?v=f5liqUk0ZTw)
+
 *[back to top](#by-topic)*
 
 #### deep learning
