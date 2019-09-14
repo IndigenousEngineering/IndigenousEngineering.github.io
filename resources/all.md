@@ -6,11 +6,11 @@
 
 [learn to code](#learn-to-code)
 
+[mathematics](#mathematics)
+
 [data science](#data-science)
 
 [machine learning](#machine-learning)
-
-[mathematics](#mathematics)
 
 [deep learning](#deep-learning)
 
@@ -39,6 +39,26 @@
     * [Codewars](https://www.codewars.com/)
     
     * [HackerRank](https://www.hackerrank.com/)
+
+*[back to top](#by-topic)*
+
+#### mathematics
+
+* Khan Academy Algebra Courses (in order): [Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) (start here & skip if the concepts are familiar), [Algebra 1](https://www.khanacademy.org/math/algebra), [Algebra 2](https://www.khanacademy.org/math/algebra2)
+
+* [EdX Pre-Calculus Course](https://www.edx.org/course/precalculus-asux-mat170x) (free course, college credit eligible for a fee)
+
+* [Khan Academy Pre-Calculus Course](https://www.khanacademy.org/math/precalculus)
+
+* [MIT Single Variable Calculus (Calculus 1)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (free full course)
+
+* [Khan Academy Calculus 1](https://www.khanacademy.org/math/calculus-1)
+
+* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
+
+* [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
+
+* [What's a Tensor? (Video)](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 
 *[back to top](#by-topic)*
 
@@ -158,26 +178,6 @@
     * [Density Estimation](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.3-Density-GMM.ipynb)
 
     * [Validation & Model Selection](https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/05-Validation.ipynb)
-
-*[back to top](#by-topic)*
-
-#### mathematics
-
-* Khan Academy Algebra Courses (in order): [Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) (start here & skip if the concepts are familiar), [Algebra 1](https://www.khanacademy.org/math/algebra), [Algebra 2](https://www.khanacademy.org/math/algebra2)
-
-* [EdX Pre-Calculus Course](https://www.edx.org/course/precalculus-asux-mat170x) (free course, college credit eligible for a fee)
-
-* [Khan Academy Pre-Calculus Course](https://www.khanacademy.org/math/precalculus)
-
-* [MIT Single Variable Calculus (Calculus 1)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (free full course)
-
-* [Khan Academy Calculus 1](https://www.khanacademy.org/math/calculus-1)
-
-* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
-
-* [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
-
-* [What's a Tensor? (Video)](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 
 *[back to top](#by-topic)*
 
