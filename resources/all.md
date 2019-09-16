@@ -213,6 +213,8 @@
 
 #### natural language processing
 
+* [Ultimate Guide to Understand and Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
+
 *[back to top](#by-topic)*
 
 #### data visualization
