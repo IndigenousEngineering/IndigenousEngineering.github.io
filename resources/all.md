@@ -16,6 +16,8 @@
 
 [RNNs / LSTMs](#rnns-and-lstms)
 
+[natural language processing](#natural-language-processing)
+
 [data visualization](#data-visualization)
 
 [scraping and building datasets](#scraping-and-building-datasets)
@@ -206,6 +208,10 @@
 * [Recurrent Neural Network (RNN) basics and the Long Short Term Memory (LSTM) cell](https://pythonprogramming.net/recurrent-neural-network-rnn-lstm-machine-learning-tutorial/)
 
 * [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](https://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/), code in [this repo](https://github.com/adventuresinML/adventures-in-ml-code)
+
+*[back to top](#by-topic)*
+
+#### natural language processing
 
 *[back to top](#by-topic)*
 
