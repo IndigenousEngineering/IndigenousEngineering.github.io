@@ -215,6 +215,10 @@
 
 * [Ultimate Guide to Understand and Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 
+* [Natural Language Toolkit (NLTK) 3.4.5 documentation](https://www.nltk.org/)
+
+* [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit (NLTK book, free)](https://www.nltk.org/book/)
+
 *[back to top](#by-topic)*
 
 #### data visualization
