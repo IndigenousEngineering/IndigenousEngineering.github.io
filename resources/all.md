@@ -219,6 +219,12 @@
 
 * [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit (NLTK book, free)](https://www.nltk.org/book/)
 
+* [Tokenizing Words and Sentences with NLTK](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
+
+* [NLP Tutorial Using Python NLTK](https://likegeeks.com/nlp-tutorial-using-python-nltk/)
+
+* [Python NLP analysis of Restaurant reviews](https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/)
+
 *[back to top](#by-topic)*
 
 #### data visualization
