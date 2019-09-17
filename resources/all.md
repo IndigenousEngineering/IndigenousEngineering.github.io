@@ -225,6 +225,8 @@
 
 * [Python NLP analysis of Restaurant reviews](https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/)
 
+* [A Gentle Introduction to Neural Machine Translation](https://machinelearningmastery.com/introduction-neural-machine-translation/)
+
 *[back to top](#by-topic)*
 
 #### data visualization
