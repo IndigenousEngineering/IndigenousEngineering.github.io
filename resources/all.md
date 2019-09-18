@@ -213,6 +213,8 @@
 
 #### natural language processing
 
+* [Natural Language Processing: From Basics to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
+
 * [Ultimate Guide to Understand and Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 
 * [Natural Language Toolkit (NLTK) 3.4.5 documentation](https://www.nltk.org/)
