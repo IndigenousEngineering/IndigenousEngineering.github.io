@@ -233,6 +233,38 @@
 
 *[back to top](#by-topic)*
 
+#### graph algorithms
+
+* [Data Scientists, The 5 Graph Algorithms that you should know](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
+
+* [Graph Analytics for Big Data (UC San Diego/Coursera free full course)](https://www.coursera.org/learn/big-data-graph-analytics?)
+
+* [The Connected Components Algorithm](https://neo4j.com/docs/graph-algorithms/current/algorithms/connected-components/)
+
+* [Strongly Connected Components (tutorial)[https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/]
+
+* [Connected Components in an undirected graph](https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/)
+
+* [Dijkstra’s shortest path algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+
+* [Finding The Shortest Path, With A Little Help From Dijkstra](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+
+* [Shortest paths with Dijkstra's Algorithm](https://www.codingame.com/playgrounds/1608/shortest-paths-with-dijkstras-algorithm/dijkstras-algorithm)
+
+* [Kruskal’s Minimum Spanning Tree Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+
+* [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
+
+* [Minimum Spanning Trees (Algorithms, 4th ed, free full book)](https://algs4.cs.princeton.edu/43mst/)
+
+* [The Google PageRank Algorithm (Standfor CS 54N handout)](https://web.stanford.edu/class/cs54n/handouts/24-GooglePageRankAlgorithm.pdf)
+
+* [The Google Pagerank Algorithm and How It Works](https://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm)
+
+* [Page Rank Algorithm and Implementation](https://www.geeksforgeeks.org/page-rank-algorithm-implementation/)
+
+[back to top](#by-topic)*
+
 #### data visualization
 
 * [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
