@@ -268,7 +268,7 @@
 
 * [Page Rank Algorithm and Implementation](https://www.geeksforgeeks.org/page-rank-algorithm-implementation/)
 
-[back to top](#by-topic)*
+*[back to top](#by-topic)*
 
 #### data visualization
 
