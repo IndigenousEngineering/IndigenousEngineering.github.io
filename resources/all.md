@@ -102,7 +102,6 @@
     
     * [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
-
 *[back to top](#by-topic)*
 
 * algorithms
@@ -234,6 +233,8 @@
 *[back to top](#by-topic)*
 
 #### graph algorithms
+
+* [Demystifying Graph Algorithms](https://medium.com/cracking-the-data-science-interview/demystifying-graph-algorithms-2fc137e7598)
 
 * [Data Scientists, The 5 Graph Algorithms that you should know](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 
