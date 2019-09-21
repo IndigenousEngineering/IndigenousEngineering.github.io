@@ -241,7 +241,7 @@
 
 * [The Connected Components Algorithm](https://neo4j.com/docs/graph-algorithms/current/algorithms/connected-components/)
 
-* [Strongly Connected Components (tutorial)[https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/]
+* [Strongly Connected Components (tutorial)](https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/)
 
 * [Connected Components in an undirected graph](https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/)
 
