@@ -18,6 +18,8 @@
 
 [natural language processing](#natural-language-processing)
 
+[graph algorithms](#graph-algorithms)
+
 [data visualization](#data-visualization)
 
 [scraping and building datasets](#scraping-and-building-datasets)
