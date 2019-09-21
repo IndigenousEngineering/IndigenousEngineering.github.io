@@ -236,6 +236,10 @@
 
 * [Demystifying Graph Algorithms](https://medium.com/cracking-the-data-science-interview/demystifying-graph-algorithms-2fc137e7598)
 
+* [An Introduction to Graph Theory and Network Analysis (with Python codes)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
+
+* [Data Modelling With Graph Theory: Part 1](https://blog.usejournal.com/data-modelling-with-graph-theory-part-1-introduction-f52aaf11f974)
+
 * [Data Scientists, The 5 Graph Algorithms that you should know](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 
 * [Graph Analytics for Big Data (UC San Diego/Coursera free full course)](https://www.coursera.org/learn/big-data-graph-analytics?)
