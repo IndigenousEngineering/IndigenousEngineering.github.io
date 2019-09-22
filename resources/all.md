@@ -76,7 +76,9 @@
 
 * [Python Tutorial for Data Science](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
-* [How to Generate Test Datasets in Python with scikit-learn](https://machinelearningmastery.com/generate-test-datasets-python-scikit-learn/)
+* [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
+
+* [Cleaning Dirty Data with Pandas & Python](http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/)
 
 *[back to top](#by-topic)*
 
