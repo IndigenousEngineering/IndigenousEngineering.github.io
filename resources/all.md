@@ -68,6 +68,8 @@
 
 #### data science
 
+* [Python for Data Science and AI (Coursera free full course)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+
 * [How to Setup Your Python Environment for Machine Learning with Anaconda](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
 
 * [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
