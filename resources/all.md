@@ -8,6 +8,10 @@
 
 [mathematics](#mathematics)
 
+[python](#python)
+
+[tensorflow](#tensorflow)
+
 [data science](#data-science)
 
 [machine learning](#machine-learning)
