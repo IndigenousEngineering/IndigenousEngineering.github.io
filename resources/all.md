@@ -74,11 +74,29 @@
 
 * [Automate the Boring Stuff with Python (free book)](https://automatetheboringstuff.com/)
 
+* [CS for All](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/)
+
+* [Think Python: How to Think Like a Computer Scientist (O'Reilly, free book)](http://greenteapress.com/thinkpython/html/index.html)
+
+* [A Python Crash Course](https://www.grahamwheeler.com/posts/python-crash-course.html)
+
+* [Python Module of the Week](https://pymotw.com/2/contents.html)
+
+* [Microservices with Docker, Flask, and React](https://testdriven.io/courses/microservices-with-docker-flask-and-react/?utm_source=fsp)
+
 *[back to top](#by-topic)*
 
 #### tensorflow
 
 * [TensorFlow Course](https://github.com/machinelearningmindset/TensorFlow-Course?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_205)
+
+* [Introduction to Deep Learning with TensorFlow](https://pythonprogramming.net/tensorflow-introduction-machine-learning-tutorial/)
+
+* [Introduction to the Python Deep Learning Library TensorFlow](https://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/)
+
+* [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.07461&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) *in-browser lab lets you pay with different neural net parameters*
+
+* [Python Machine Learning Tutorial: TensorFlow](https://www.python-course.eu/tensor_flow_introduction.php)
 
 *[back to top](#by-topic)*
 
