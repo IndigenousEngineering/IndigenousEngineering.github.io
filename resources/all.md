@@ -70,6 +70,18 @@
 
 *[back to top](#by-topic)*
 
+#### python
+
+* [Automate the Boring Stuff with Python (free book)](https://automatetheboringstuff.com/)
+
+*[back to top](#by-topic)*
+
+#### tensorflow
+
+* [TensorFlow Course](https://github.com/machinelearningmindset/TensorFlow-Course?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_205)
+
+*[back to top](#by-topic)*
+
 #### data science
 
 * [Python for Data Science and AI (Coursera free full course)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
