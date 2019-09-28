@@ -312,6 +312,10 @@
 
 * [Getting into data visualization — where should I start?](https://medium.com/datavisualization/where-should-i-start-c53acdf04a1c)
 
+* [Python Graph Gallery](https://python-graph-gallery.com/) *example charts with reproducible python code*
+
+* [Introduction to Data Visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
+
 * [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
 * [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
