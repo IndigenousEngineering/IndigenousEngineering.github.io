@@ -310,6 +310,8 @@
 
 #### data visualization
 
+* [Getting into data visualization — where should I start?](https://medium.com/datavisualization/where-should-i-start-c53acdf04a1c)
+
 * [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
 * [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
