@@ -62,6 +62,8 @@
 
 * [Khan Academy Calculus 1](https://www.khanacademy.org/math/calculus-1)
 
+* [Introduction to Statistics, David Lane, Rice University, Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/introduction-to-statistics) *free complete textbook online*
+
 * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
 
 * [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
