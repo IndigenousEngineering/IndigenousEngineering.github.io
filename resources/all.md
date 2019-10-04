@@ -122,6 +122,8 @@
 
 * [Cleaning Dirty Data with Pandas & Python](http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/)
 
+* [The Curse of Dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
+
 *[back to top](#by-topic)*
 
 #### machine learning
