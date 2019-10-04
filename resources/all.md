@@ -64,6 +64,8 @@
 
 * [Introduction to Statistics, David Lane, Rice University, Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/introduction-to-statistics) (free complete textbook online)
 
+* [Carnegie Mellon Probability & Statistics](https://oli.cmu.edu/courses/probability-statistics-open-free/) (free full course)
+
 * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (video series)
 
 * [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (free full course)
