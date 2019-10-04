@@ -70,6 +70,9 @@
 
 * [What's a Tensor? (Video)](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 
+* [Discrete Mathematics: An Open Introduction (Oscar Levin)](http://discrete.openmathbooks.org/dmoi2/sec_intro-intro.html) (free full book online)
+
+
 *[back to top](#by-topic)*
 
 #### python
