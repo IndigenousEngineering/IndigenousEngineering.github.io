@@ -386,6 +386,10 @@
 
 #### data sets
 
+* parallel corpora (machine translation)
+
+    * [LDC - Linguistic Data Consortium](https://www.ldc.upenn.edu/)
+
 *[back to top](#by-topic)*
 
 
