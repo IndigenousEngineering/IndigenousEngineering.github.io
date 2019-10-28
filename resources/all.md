@@ -389,6 +389,10 @@
 * parallel corpora (machine translation)
 
     * [LDC - Linguistic Data Consortium](https://www.ldc.upenn.edu/)
+    
+    * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
+    
+    
 
 *[back to top](#by-topic)*
 
