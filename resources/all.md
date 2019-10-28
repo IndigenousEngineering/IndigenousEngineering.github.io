@@ -394,6 +394,8 @@
     
     * [Europarl](https://www.statmt.org/europarl/)
     
+    * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
+    
     
 
 *[back to top](#by-topic)*
