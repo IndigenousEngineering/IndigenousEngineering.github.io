@@ -392,6 +392,8 @@
     
     * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
     
+    * [Europarl](https://www.statmt.org/europarl/)
+    
     
 
 *[back to top](#by-topic)*
