@@ -32,6 +32,8 @@
 
 [free courses](#free-courses)
 
+[data sets](#data-sets)
+
 ### all:
 
 #### learn to code
@@ -382,5 +384,8 @@
 
 *[back to top](#by-topic)*
 
+#### data sets
+
+*[back to top](#by-topic)*
 
 
