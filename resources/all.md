@@ -518,4 +518,6 @@
 
     * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
     
+    * [DeepLearning.net](http://deeplearning.net/datasets/)
+    
 *[back to top](#by-topic)*
