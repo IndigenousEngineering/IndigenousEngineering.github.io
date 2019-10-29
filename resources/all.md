@@ -387,6 +387,8 @@
 #### datasets
 
 * computer vision
+
+    * [MNIST Hand_Written Digits](http://yann.lecun.com/exdb/mnist/)
     
     * [ImageNet](http://www.image-net.org/)
 
