@@ -393,6 +393,8 @@
     * [Visual Genome](http://visualgenome.org/api/v0/api_home.html)
     
     * [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
+    
+    * [IMDB-WIKI](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
 * parallel corpora (machine translation)
 
