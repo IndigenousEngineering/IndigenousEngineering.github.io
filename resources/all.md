@@ -430,6 +430,8 @@
     
     * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](https://arxiv.org/abs/1506.08909)
     
+    * [MovieTweetings: A Movie Rating Dataset Collected From Twitter](https://github.com/sidooms/MovieTweetings)
+    
     * [The Reuters Corpora](https://trec.nist.gov/data/reuters/reuters.html)
     
     *[back to top](#by-topic)*
