@@ -391,6 +391,8 @@
     * [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html)
     
     * [Visual Genome](http://visualgenome.org/api/v0/api_home.html)
+    
+    * [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
 * parallel corpora (machine translation)
 
