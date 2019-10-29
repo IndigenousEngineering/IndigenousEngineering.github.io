@@ -422,6 +422,8 @@
 
     * [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/)
     
+    * [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html)
+    
     * [Sentiment Labelled Sentences Data Set (UCI ML Repo)](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
     
     * [Urban Dictionary Words & Definitions](https://www.kaggle.com/therohk/urban-dictionary-words-dataset)
