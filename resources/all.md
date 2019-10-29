@@ -442,6 +442,8 @@
 
 * government datasets
 
-    [European Union Open Data Portal](https://data.europa.eu/euodp/data/dataset)
+    * [European Union Open Data Portal](https://data.europa.eu/euodp/data/dataset)
+    
+    * [DATA.gov US Government Open Data](https://www.data.gov/)
     
 *[back to top](#by-topic)*
