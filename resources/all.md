@@ -422,6 +422,8 @@
     
     * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
     
+    * [United Nations Parallel Corpus](https://conferences.unite.un.org/uncorpus/)
+    
     * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
     
     * [English-Vietnamese Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0124/)
@@ -433,6 +435,10 @@
     * [Arabizi-English Code Switching](http://catalog.elra.info/en-us/repository/browse/ELRA-W0126/)
     
     * [Croatian-English Parallel Web Corpus](http://opus.nlpl.eu/hrenWaC.php)
+    
+    * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
+    
+   
 
 *[back to top](#by-topic)*
 
