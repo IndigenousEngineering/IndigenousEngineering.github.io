@@ -467,6 +467,10 @@
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
     
     *[back to top](#by-topic)*
+    
+* health datasets
+
+    * [Big Cities Health Inventory Data Platform](https://bchi.bigcitieshealth.org/indicators/1827/searches/34444)
 
 * government datasets
 
