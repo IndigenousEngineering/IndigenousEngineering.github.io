@@ -488,6 +488,14 @@
     
     * [California Health Interview Survey (largest state health survey in the United States)](http://healthpolicy.ucla.edu/chis/Pages/default.aspx)
     
+    * [DHS Demographic and Health Surveys Datasets](https://dhsprogram.com/data/available-datasets.cfm)
+    
+    * [Global Health Data Exchange](http://ghdx.healthdata.org/)
+    
+    * [United Nations Environmental Data Explorer](http://geodata.grid.unep.ch/)
+    
+    * [OpenFDA: FDA Public Data](https://open.fda.gov/)
+    
     *[back to top](#by-topic)*
 
 * government datasets
