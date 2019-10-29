@@ -240,6 +240,8 @@
 
 * [Neural Networks & Deep Learning (complete book online) by Michael Nielson](http://neuralnetworksanddeeplearning.com/)
 
+* [Artificial Intelligence: Foundations of Computational Agents (full book online)](https://artint.info/index.html)
+
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 * [Perceptron — Deep Learning Basics](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6)
