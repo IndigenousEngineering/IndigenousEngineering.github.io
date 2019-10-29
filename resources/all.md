@@ -414,7 +414,7 @@
 
     * [Europarl](https://www.statmt.org/europarl/)
 
-    * [LDC - Linguistic Data Consortium](https://www.ldc.upenn.edu/)
+    * [LDC - Linguistic Data Consortium](https://www.ldc.upenn.edu/) (contains a number of corpora)
     
     * [ELRA Catalogue of Language Resources](http://catalog.elra.info/en-us/)
     
@@ -422,7 +422,9 @@
     
     * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
     
-    * [Global Voices](http://casmacat.eu/corpus/global-voices.html)    
+    * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
+    
+    * [English-Vietnamese Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0124/)
 
 *[back to top](#by-topic)*
 
