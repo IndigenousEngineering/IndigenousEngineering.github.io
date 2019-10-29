@@ -439,5 +439,9 @@
     * [Croatian-English Parallel Web Corpus (OPUS)](http://opus.nlpl.eu/hrenWaC.php)
     
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
+
+* government datasets
+
+    [European Union Open Data Portal](https://data.europa.eu/euodp/data/dataset)
     
 *[back to top](#by-topic)*
