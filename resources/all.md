@@ -388,11 +388,13 @@
 
 * parallel corpora (machine translation)
 
+    * [Europarl](https://www.statmt.org/europarl/)
+
     * [LDC - Linguistic Data Consortium](https://www.ldc.upenn.edu/)
     
-    * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
+    * [ELRA Catalogue of Language Resources](http://catalog.elra.info/en-us/)
     
-    * [Europarl](https://www.statmt.org/europarl/)
+    * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
     
     * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
     
