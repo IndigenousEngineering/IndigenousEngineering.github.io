@@ -429,6 +429,8 @@
     * [English-Persian Parallel Corpus]](http://catalog.elra.info/en-us/repository/browse/ELRA-W0118/)
     
     * [Pashto-French Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0093/)
+    
+    * [Arabizi-English Code Switching](http://catalog.elra.info/en-us/repository/browse/ELRA-W0126/)
 
 *[back to top](#by-topic)*
 
