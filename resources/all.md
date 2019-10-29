@@ -474,7 +474,11 @@
     
     * [HealthData.gov](https://healthdata.gov/search/type/dataset?f%5B0%5D=type%3Adataset)
     
+    * [Child Health and Development Studies (CHDS)](http://www.chdstudies.org/research/information_for_researchers.php)
+    
     * [Healthcare Cost and Utilization Project (HCUP) longitudinal database](https://hcup-us.ahrq.gov/databases.jsp)
+    
+    * [NCHS - Leading Causes of Death: United States ](https://catalog.data.gov/dataset/age-adjusted-death-rates-for-the-top-10-leading-causes-of-death-united-states-2013)
 
 * government datasets
 
