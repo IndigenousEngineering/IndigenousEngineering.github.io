@@ -478,11 +478,17 @@
     
     * [The Early Childhood Longitudinal Study (ECLS)](https://nces.ed.gov/ecls/index.asp)
     
+    * [Data Resource Center for Child & Adolescent Health](https://www.childhealthdata.org/home)
+    
     * [Healthcare Cost and Utilization Project (HCUP) longitudinal database](https://hcup-us.ahrq.gov/databases.jsp)
     
     * [NCHS - Leading Causes of Death: United States ](https://catalog.data.gov/dataset/age-adjusted-death-rates-for-the-top-10-leading-causes-of-death-united-states-2013)
     
     * [Data Discovery (National Library of Medicine)](https://datadiscovery.nlm.nih.gov/browse)
+    
+    * [California Health Interview Survey (largest state health survey in the United States)](http://healthpolicy.ucla.edu/chis/Pages/default.aspx)
+    
+    *[back to top](#by-topic)*
 
 * government datasets
 
