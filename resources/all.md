@@ -388,10 +388,6 @@
 
 #### datasets
 
-* natural language processing
-
-    * [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/)
-
 * computer vision
 
     * [MNIST Hand_Written Digits](http://yann.lecun.com/exdb/mnist/)
@@ -415,6 +411,18 @@
     * [COCO - Common Objects in Context](http://cocodataset.org/#home)
     
     * [Open Images](https://storage.googleapis.com/openimages/web/factsfigures.html)
+    
+    *[back to top](#by-topic)*
+    
+* natural language processing
+
+    * [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/)
+    
+    * [Sentiment Labelled Sentences Data Set (UCI ML Repo)](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
+    
+    * [MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/)
+    
+    *[back to top](#by-topic)*
 
 * parallel corpora (machine translation)
 
@@ -443,12 +451,16 @@
     * [Croatian-English Parallel Web Corpus (OPUS)](http://opus.nlpl.eu/hrenWaC.php)
     
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
+    
+    *[back to top](#by-topic)*
 
 * government datasets
 
     * [European Union Open Data Portal](https://data.europa.eu/euodp/data/dataset)
     
     * [DATA.gov US Government Open Data](https://www.data.gov/)
+    
+    *[back to top](#by-topic)*
 
 * dataset collections
 
