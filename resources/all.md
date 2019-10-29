@@ -427,6 +427,8 @@
     * [English-Vietnamese Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0124/)
     
     * [English-Persian Parallel Corpus]](http://catalog.elra.info/en-us/repository/browse/ELRA-W0118/)
+    
+    * [Pashto-French Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0093/)
 
 *[back to top](#by-topic)*
 
