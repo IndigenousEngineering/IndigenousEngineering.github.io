@@ -431,6 +431,8 @@
     * [Pashto-French Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0093/)
     
     * [Arabizi-English Code Switching](http://catalog.elra.info/en-us/repository/browse/ELRA-W0126/)
+    
+    * [Croatian-English Parallel Web Corpus](http://opus.nlpl.eu/hrenWaC.php)
 
 *[back to top](#by-topic)*
 
