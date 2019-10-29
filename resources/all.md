@@ -418,6 +418,8 @@
     
     * [ELRA Catalogue of Language Resources](http://catalog.elra.info/en-us/)
     
+    * [OPUS Open Source Parallel Corpus](http://opus.nlpl.eu/)
+    
     * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
     
     * [Global Voices](http://casmacat.eu/corpus/global-voices.html)    
