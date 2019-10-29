@@ -424,6 +424,8 @@
     
     * [Sentiment Labelled Sentences Data Set (UCI ML Repo)](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
     
+    * [Urban Dictionary Words & Definitions](https://www.kaggle.com/therohk/urban-dictionary-words-dataset)
+    
     * [News Headlines for Sarcasm Detection](https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection)
     
     * [MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/)
