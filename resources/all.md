@@ -388,6 +388,10 @@
 
 #### datasets
 
+* natural language processing
+
+    * [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/)
+
 * computer vision
 
     * [MNIST Hand_Written Digits](http://yann.lecun.com/exdb/mnist/)
