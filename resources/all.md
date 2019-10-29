@@ -416,9 +416,9 @@
 
     * [LDC - Linguistic Data Consortium](https://www.ldc.upenn.edu/) (contains a number of corpora)
     
-    * [ELRA Catalogue of Language Resources](http://catalog.elra.info/en-us/)
+    * [ELRA Catalogue of Language Resources](http://catalog.elra.info/en-us/) (contains a number of corpora)
     
-    * [OPUS Open Source Parallel Corpus](http://opus.nlpl.eu/)
+    * [OPUS Open Source Parallel Corpus](http://opus.nlpl.eu/) (contains a number of corpora)
     
     * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
     
@@ -426,20 +426,16 @@
     
     * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
     
-    * [English-Vietnamese Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0124/)
+    * [English-Vietnamese Parallel Corpus (ELRA)](http://catalog.elra.info/en-us/repository/browse/ELRA-W0124/)
     
-    * [English-Persian Parallel Corpus]](http://catalog.elra.info/en-us/repository/browse/ELRA-W0118/)
+    * [English-Persian Parallel Corpus (ELRA)](http://catalog.elra.info/en-us/repository/browse/ELRA-W0118/)
     
-    * [Pashto-French Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0093/)
+    * [Pashto-French Parallel Corpus (ELRA)](http://catalog.elra.info/en-us/repository/browse/ELRA-W0093/)
     
-    * [Arabizi-English Code Switching](http://catalog.elra.info/en-us/repository/browse/ELRA-W0126/)
+    * [Arabizi-English Code Switching (ELRA)](http://catalog.elra.info/en-us/repository/browse/ELRA-W0126/)
     
-    * [Croatian-English Parallel Web Corpus](http://opus.nlpl.eu/hrenWaC.php)
+    * [Croatian-English Parallel Web Corpus (OPUS)](http://opus.nlpl.eu/hrenWaC.php)
     
     * [Turkish-English Parallel Corpus](https://github.com/bicici/SMTData/commit/1cca572244c6c9b8e810735ca898f5f3a19b2ecc#diff-7a11a746e07c7411854b77f3f521f534)
     
-   
-
 *[back to top](#by-topic)*
-
-
