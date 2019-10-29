@@ -424,9 +424,13 @@
     
     * [Sentiment Labelled Sentences Data Set (UCI ML Repo)](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
     
+    * [News Headlines for Sarcasm Detection](https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection)
+    
     * [MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/)
     
     * [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](https://arxiv.org/abs/1506.08909)
+    
+    * [The Reuters Corpora](https://trec.nist.gov/data/reuters/reuters.html)
     
     *[back to top](#by-topic)*
 
