@@ -32,7 +32,7 @@
 
 [free courses](#free-courses)
 
-[data sets](#data-sets)
+[datasets](#datasets)
 
 ### all:
 
@@ -384,7 +384,11 @@
 
 *[back to top](#by-topic)*
 
-#### data sets
+#### datasets
+
+* computer vision
+
+    * [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html)
 
 * parallel corpora (machine translation)
 
