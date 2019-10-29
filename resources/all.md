@@ -424,6 +424,8 @@
     
     * [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html)
     
+    * [20 Newsgroups Classification](http://qwone.com/~jason/20Newsgroups/)
+    
     * [Sentiment Labelled Sentences Data Set (UCI ML Repo)](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
     
     * [Urban Dictionary Words & Definitions](https://www.kaggle.com/therohk/urban-dictionary-words-dataset)
