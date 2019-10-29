@@ -425,6 +425,8 @@
     * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
     
     * [English-Vietnamese Parallel Corpus](http://catalog.elra.info/en-us/repository/browse/ELRA-W0124/)
+    
+    * [English-Persian Parallel Corpus]](http://catalog.elra.info/en-us/repository/browse/ELRA-W0118/)
 
 *[back to top](#by-topic)*
 
