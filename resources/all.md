@@ -417,6 +417,8 @@
 * natural language processing
 
     * [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
+    
+    * [SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
     * [The Stanford Natural Language Inference (SNLI) Corpus](https://nlp.stanford.edu/projects/snli/)
     
