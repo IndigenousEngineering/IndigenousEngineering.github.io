@@ -397,6 +397,8 @@
     * [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
     
     * [IMDB-WIKI](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+    
+    * [Kinetics-700](https://deepmind.com/research/open-source/kinetics)
 
 * parallel corpora (machine translation)
 
