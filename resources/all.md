@@ -476,6 +476,8 @@
     
     * [Child Health and Development Studies (CHDS)](http://www.chdstudies.org/research/information_for_researchers.php)
     
+    * [The Early Childhood Longitudinal Study (ECLS)](https://nces.ed.gov/ecls/index.asp)
+    
     * [Healthcare Cost and Utilization Project (HCUP) longitudinal database](https://hcup-us.ahrq.gov/databases.jsp)
     
     * [NCHS - Leading Causes of Death: United States ](https://catalog.data.gov/dataset/age-adjusted-death-rates-for-the-top-10-leading-causes-of-death-united-states-2013)
