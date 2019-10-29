@@ -445,5 +445,9 @@
     * [European Union Open Data Portal](https://data.europa.eu/euodp/data/dataset)
     
     * [DATA.gov US Government Open Data](https://www.data.gov/)
+
+* dataset collections
+
+    * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
     
 *[back to top](#by-topic)*
