@@ -414,9 +414,7 @@
     
     * [Canadian Hansards](https://www.isi.edu/natural-language/download/hansard/)
     
-    * [Global Voices](http://casmacat.eu/corpus/global-voices.html)
-    
-    
+    * [Global Voices](http://casmacat.eu/corpus/global-voices.html)    
 
 *[back to top](#by-topic)*
 
