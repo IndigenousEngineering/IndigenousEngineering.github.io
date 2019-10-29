@@ -448,6 +448,8 @@
 
 * dataset collections
 
+    * [Kaggle Datasets](https://www.kaggle.com/datasets?source=post_page-----bb6d0dc3378b----------------------)
+
     * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
     
 *[back to top](#by-topic)*
