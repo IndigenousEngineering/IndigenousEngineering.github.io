@@ -496,6 +496,8 @@
     
     * [OpenFDA: FDA Public Data](https://open.fda.gov/)
     
+    * [Medicare.gov: Medicare Data](https://data.medicare.gov/data)
+    
     *[back to top](#by-topic)*
 
 * government datasets
