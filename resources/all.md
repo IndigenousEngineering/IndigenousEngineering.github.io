@@ -524,4 +524,6 @@
     
     * [DeepLearning.net](http://deeplearning.net/datasets/)
     
+    * [nlp-datasets (repo containing datasets Natural Lannguage Processing research)](https://github.com/niderhoff/nlp-datasets)
+    
 *[back to top](#by-topic)*
