@@ -129,6 +129,8 @@
 * pandas
 
     * [Selecting pandas DataFrame Rows Based On Conditions](https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/)
+    
+    * [10 Python Pandas tips to make data analysis faster](https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30)
 
 *[back to top](#by-topic)*
 
