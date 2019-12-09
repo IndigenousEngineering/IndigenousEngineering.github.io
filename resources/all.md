@@ -126,11 +126,9 @@
 
 * [The Curse of Dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 
-* pandas
-
-    * [Selecting pandas DataFrame Rows Based On Conditions](https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/)
+* [Selecting pandas DataFrame Rows Based On Conditions](https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/)
     
-    * [10 Python Pandas tips to make data analysis faster](https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30)
+* [10 Python Pandas tips to make data analysis faster](https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30)
 
 *[back to top](#by-topic)*
 
