@@ -126,6 +126,10 @@
 
 * [The Curse of Dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 
+* pandas
+
+    * [Selecting pandas DataFrame Rows Based On Conditions](https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/)
+
 *[back to top](#by-topic)*
 
 #### machine learning
