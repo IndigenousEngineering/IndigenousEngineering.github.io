@@ -8,6 +8,6 @@ indigenous.engineering projects
 
 ### recent:
 
-* ["Not Your Mascot: Opinions vs Data"](https://github.com/IndigenousEngineering/IndigenousEngineering.github.io/blob/master/projects/Not_Your_Mascot.md)
+* ["Not Your Mascot: Opinions vs Data"](https://github.com/IndigenousEngineering/IndigenousEngineering.github.io/blob/master/projects/Not_Your_Mascot.html)
 
 * ["Semantic Space & Size: a Proof-of-Concept for Exploring Cultural Bias on (Very) Small Corpora Using Cosine Similarity and word2vec"](https://IndigenousEngineering.github.io/blog/posts/semantic_space_and_size.html) _(orginally published january 2019)_
