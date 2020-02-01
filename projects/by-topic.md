@@ -2,9 +2,9 @@
 
 [bias and WEAT](#bias-and-weat)
 
-[tracking hate speech](#tracking-hate-speech)
-
 [quantifying Native mascots](#quantifying-Native-mascots)
+
+[tracking hate speech](#tracking-hate-speech)
 
 # bias and WEAT
 
