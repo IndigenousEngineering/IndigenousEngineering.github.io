@@ -1,6 +1,6 @@
-# not your mascot
+# not your mascot: opinions vs data
 
-*opinions vs data*
+*team owners & fans say Native-named teams are intended to honor, and the terms are used respectfully. but what does the data say?*
 
 **_Content Note: This post contains references to anti-Indigenous slurs & other racism._**
 
