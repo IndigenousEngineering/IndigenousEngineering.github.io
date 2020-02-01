@@ -22,13 +22,13 @@ Natives on twitter have articulated the reasons these names are harmful time and
 
 Recently, Mohawk journalist [Vincent Schilling](https://twitter.com/VinceSchilling) [discussed](https://twitter.com/VinceSchilling/status/1219280045736415232?s=20) the names from his perspective as a Native sports editor:
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/Vincent_Schilling_tweet.png " alt="alt V Schilling tweet" width="500"/>](https://twitter.com/VinceSchilling/status/1219280045736415232?s=20)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/Vincent_Schilling_tweet.png " alt="V Schilling tweet" width="500"/>](https://twitter.com/VinceSchilling/status/1219280045736415232?s=20)
 
 Schilling succinctly & eloquently lays out a compelling case for re-examining these names.
 
 The methodology for this project was inspired by twitter user [@EaglesElatis](https://twitter.com/EaglesElatis), who was able to search twitter & [handily deliver a list of racist usages](https://twitter.com/EaglesElatis/status/1219785305106059269?s=20) to another person tweeting in defense of the names:
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/EaglesElatis_tweet.png" alt="@EaglesElatis tweet" width="500"/>](https://twitter.com/EaglesElatis/status/1219785305106059269?s=20)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/EaglesElatis_tweet.png" alt="@EaglesElatis tweet" width="500"/>](https://twitter.com/EaglesElatis/status/1219785305106059269?s=20)
 
 The team's defender insisted that the terms were no longer in offensive use, however @EaglesElatis was able to quickly & easily demonstrate otherwise. This gave me an idea--why not try the same thing on a much larger scale, working directly with the Twitter API?
 
@@ -101,7 +101,7 @@ With a side-by-side comparison of all terms tested, grouped by the two teams con
 
 The group of bars on the left correspond to terms within the 49ers corpus. The bars on the right represent terms from the Chiefs corpus.
 
-[![all terms by team](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/NYM_all_terms_by_team.png)](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[![all terms by team](https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/NYM_all_terms_by_team.png)](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 The occurrence of negative-to-hate speech is markedly higher in the Chiefs corpus vs. the 49ers.
 
@@ -111,7 +111,7 @@ In addition, the tail of the Chiefs chart is considerably longer, representing t
 
 All of the top 5 most frequently appearing terms--and seven of the top 10--come from the Chiefs dataset:
 
-[![top 10 terms and teams](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/top_10_terms_and_teams.png)](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[![top 10 terms and teams](https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/top_10_terms_and_teams.png)](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 ### Terms Side-by-Side
 
@@ -119,7 +119,7 @@ Examining individual terms, we can see an even more compelling case for the link
 
 The Chiefs lead the 49ers *dramatically* in occurences for nearly every negative term or phrase tested.
 
-[![individual terms by team](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/indiv_terms_by_team_pivot_all.png)](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[![individual terms by team](https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/indiv_terms_by_team_pivot_all.png)](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### Offensive Words & Associations: "Indian", "Inbred", "Firewater", "Scalp"
 
@@ -133,23 +133,23 @@ Additionally, there is no realistic context easily imaginable for the use of ter
 
 #### "Firewater"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/firewater.png" alt="drawing" width="500"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/firewater.png" alt="drawing" width="500"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### "Inbred"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/inbred.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/inbred.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### "Injun"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/injun.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/injun.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### "Smallpox"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/smallpox.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/smallpox.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### "Scalp"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/scalp.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/scalp.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### Violent Imagery Takes On New, Hateful Dimensions
 
@@ -163,15 +163,15 @@ Given the demonstrable racial overtones of this data and [epidemic of violence a
 
 #### "Raped"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/raped.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/raped.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### "Exterminate"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/exterminate.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/exterminate.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 #### "Die"
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/die.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/die.png" alt="drawing" width="700"/>](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Not_Your_Mascot_dataviz.ipynb)
 
 
 ## Conclusion
