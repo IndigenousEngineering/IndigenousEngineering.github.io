@@ -184,8 +184,8 @@ Given the clear & demonstrable racial correlation, the dramatic increases of vio
 
 Advocates for changing the names now have contemporary (English) natural language data, on a large scale, to back up their anecdotal evidence that these words are still used in hateful ways against Natives online. Datasets are freely available for research use [here](https://github.com/IndigenousEngineering/Not_Your_Mascot-build/tree/master/datasets). A CSV containing all tweets, including terms & team info, is available [here](https://github.com/IndigenousEngineering/Not_Your_Mascot-build/blob/master/datasets/Not_Your_Mascot_Full_DF.zip). A Jupyter notebook containing all code is available [here](https://github.com/IndigenousEngineering/Not_Your_Mascot-build/blob/master/Not_Your_Mascot_full.ipynb).
 
-Natives [have spoken](https://www.changethemascot.org/supporters-of-change/).
+**Natives [have spoken](https://www.changethemascot.org/supporters-of-change/).**
 
-The data has now spoken.
+**The data has now spoken.**
 
-Will the NFL finally listen?
+**Will the NFL finally listen?**
