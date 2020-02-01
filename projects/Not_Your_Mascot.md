@@ -2,7 +2,7 @@
 
 *opinions vs data*
 
-**Content Note: This post contains references to anti-Indigenous slurs & other racism.**
+**_Content Note: This post contains references to anti-Indigenous slurs & other racism._**
 
 ## Background
 
