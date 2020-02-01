@@ -22,7 +22,7 @@ Natives on twitter have articulated the reasons these names are harmful time and
 
 Recently, Mohawk journalist [Vincent Schilling](https://twitter.com/VinceSchilling) [discussed](https://twitter.com/VinceSchilling/status/1219280045736415232?s=20) the names from his perspective as a Native sports editor:
 
-[<img src="https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/dataviz/Vincent_Schilling_tweet.png" alt="V Schilling tweet" width="500"/>](https://twitter.com/VinceSchilling/status/1219280045736415232?s=20)
+[<img src=" github.com/IndigenousEngineering/Not_Your_Mascot/dataviz/Vincent_Schilling_tweet.png " alt="V Schilling tweet" width="500"/>](https://twitter.com/VinceSchilling/status/1219280045736415232?s=20)
 
 Schilling succinctly & eloquently lays out a compelling case for re-examining these names.
 
