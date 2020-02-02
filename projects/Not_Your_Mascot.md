@@ -26,7 +26,7 @@ Recently, Mohawk journalist [Vincent Schilling](https://twitter.com/VinceSchilli
 
 Schilling succinctly & eloquently lays out a compelling case for re-examining these names.
 
-The methodology for this project was inspired by twitter user [@EaglesElatis](https://twitter.com/EaglesElatis), who was able to search twitter & [handily deliver a list of racist usages](https://twitter.com/EaglesElatis/status/1219785305106059269?s=20) to another person tweeting in defense of the names:
+The methodology for this project was inspired by twitter user [EaglesElatis](https://twitter.com/EaglesElatis), who was able to search twitter & [handily deliver a list of racist usages](https://twitter.com/EaglesElatis/status/1219785305106059269?s=20) to another person tweeting in defense of the names:
 
 [<img src="https://raw.githubusercontent.com/IndigenousEngineering/Not_Your_Mascot/master/dataviz/EaglesElatis_tweet.png" alt="@EaglesElatis tweet" width="500"/>](https://twitter.com/EaglesElatis/status/1219785305106059269?s=20)
 
