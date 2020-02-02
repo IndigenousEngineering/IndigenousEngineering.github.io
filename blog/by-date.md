@@ -1,7 +1,7 @@
 # ᏗᎪᎥ ᏃᎵᏍᎬ / blog posts by date
 
-[november 2018](#november-2018)
+[2019](#2019)
 
-# november 2018
+# 2019
 
-* ["What Words Mean: Towards a Multidisciplinary Approach to Bias in NLP"](https://IndigenousEngineering.github.io/blog/posts/what_words_mean.html) _originally published november 2018_
+* ["What Words Mean: Towards a Multidisciplinary Approach to Bias in NLP"](https://IndigenousEngineering.github.io/blog/posts/what_words_mean.html)
