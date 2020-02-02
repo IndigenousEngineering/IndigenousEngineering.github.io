@@ -8,4 +8,4 @@ welcome to the indigenous.engineering blog
 
 ### most recent:
 
-* ["What Words Mean: Towards a Multidisciplinary Approach to Bias in NLP"](https://IndigenousEngineering.github.io/blog/posts/what_words_mean.html) _(originally published november 2018)_
+* ["What Words Mean: Towards a Multidisciplinary Approach to Bias in NLP"](https://IndigenousEngineering.github.io/blog/posts/what_words_mean.html)
