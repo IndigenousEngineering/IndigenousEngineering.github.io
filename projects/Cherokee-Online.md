@@ -1,6 +1,8 @@
 # what does it mean to be Cherokee online?
 
-*Over 100 years since the Dawes Act land grabs, theft of Indigenous resources continues through misappropriated identity. Non-Natives frequently dismiss these  "family myths" as harmless, claiming they do not affect Natives in any material way. I wanted to see the data.*
+*Over 100 years since the Dawes Act land grabs, theft of Indigenous resources continues through misappropriated identity. Non-Natives frequently dismiss these  "family myths" as harmless, claiming they do not affect Natives in any material way. 
+
+I wanted to see the data.*
 
 **_Content Note: This post contains references to anti-Indigenous slurs & other racism._**
 
