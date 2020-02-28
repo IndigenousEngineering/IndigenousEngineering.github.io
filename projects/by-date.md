@@ -6,6 +6,8 @@
 
 ### february 2020
 
+* ["What Does It Mean To Be Cherokee Online?"](https://indigenous.engineering/projects/Cherokee-Online.html)
+
 * ["Not Your Mascot: Opinions vs Data"](https://IndigenousEngineering.github.io/projects/Not_Your_Mascot.html)
 
 ### 2019
