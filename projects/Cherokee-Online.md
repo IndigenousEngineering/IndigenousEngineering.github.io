@@ -34,7 +34,7 @@ Like all the candidates, Warren’s online visibility increases significantly du
 
 Word clouds are a visualization tool used to model the importance of particular words & ideas within a corpus of text data. Words that appear more frequently in a text are represented as more “important” in the word cloud by larger size, bolder text, etc. The underlying assumption of a word cloud as a visualization tool is that the more frequently a word or phrase appears in the corpus, the more closely connected it is to the text.
 
-I created an instantaneous word cloud from tweets containing the word "Cherokee" immediately following the February 7th, 2020 Democratic debate (in which Senator Warren participated), around 10:30 pm EST. The most frequent vocabulary words found in the tweets show that up until shortly after the debate the biggest news around the word "Cherokee" was the tribe's [donation of several culturally vital varieties of seeds](https://anadisgoi.com/archive/2756-cherokee-nation-first-tribe-in-u-s-to-send-heirloom-seeds-to-global-seed-vault-in-norway) to the [Svalbard Global Seed Vault](https://www.nordgen.org/sgsv/), as reported by The Guardian [in a story](https://www.theguardian.com/world/2020/feb/07/cherokee-nation-seeds-arctic-vault-svalbard) dated February 7th, 12:27 EST. As the Cherokee Nation is only the second Indigenous tribe to contribute to the vault, and the seeds contributed [predate European arrival in North America](https://www.cherokeephoenix.org/Article/index/114057), it makes sense that this news would dominate.
+I created an instantaneous word cloud from tweets containing the word "Cherokee" immediately following the February 7th, 2020 Democratic debate (in which Senator Warren participated), around 10:30 pm EST. The most frequent vocabulary words found in the tweets show that up until shortly after the debate the biggest news around the word "Cherokee" was the tribe's [donation of several culturally vital varieties of seeds](https://anadisgoi.com/archive/2756-cherokee-nation-first-tribe-in-u-s-to-send-heirloom-seeds-to-global-seed-vault-in-norway) to the [Svalbard Global Seed Vault](https://www.nordgen.org/sgsv/), as reported by The Guardian [in a story](https://www.theguardian.com/world/2020/feb/07/cherokee-nation-seeds-arctic-vault-svalbard) dated February 7th, 12:27 EST. As the Cherokee Nation is only the second Indigenous tribe to contribute to the vault, and the seeds contributed [predate European arrival in North America](https://www.cherokeephoenix.org/Article/index/114057), it makes sense that this news would dominate:
 
 <img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_and_not_offended_word_cloud_February%202020.png?token=AJ2DZT7RJMKH33DY44NKNVC6MJMQU" alt="Cherokee word cloud, 02/07 10:30 pm EST" width="500"/>
 
@@ -42,17 +42,17 @@ I created an instantaneous word cloud from tweets containing the word "Cherokee"
 
 However by shortly after 10:30 am February 8th, **just twelve hours later**, a word cloud created using the same methodology demonstrates how the debate had worked its way in to Cherokee mentions: alongside words like "seeds", "culturally" and "preserve" hashtags related to the presidential election are prominent in the dataset. Diluting mentions of Cherokee heritage we can see the terms *Bernie2016* and *Bernie2020*, referencing 2020 democratic presidential candidate Bernie Sanders.
 
-This word cloud was generated from tweets containing the word "Cherokee". There was no other reference or marker for politics, any political candidate, or the democratic debate. The ability to query tweets containing "Cherokee" and in real time see tweets directly linked to the 2020 elections is clear evidence of the deeply-entrenched nature of Warren's misrepresentations regarding her ethnicity.
+This word cloud was generated from tweets containing the word "Cherokee". There was no other reference or marker for politics, any political candidate, or the democratic debate. The ability to query tweets containing "Cherokee" and in real time see tweets directly linked to the 2020 elections is clear evidence of the deeply-entrenched nature of Warren's misrepresentations regarding her ethnicity:
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%208th%202020%201030%20am%20EST.png?token=AJ2DZT4HNH63NYSZYDAYLEC6MJNPC" alt="Cherokee word cloud, 02/08 10:30 am EST" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%208th%202020%201030%20am%20EST.png?token=AJ2DZT4HNH63NYSZYDAYLEC6MJNPC" alt="Cherokee word cloud, 02/08 10:30 am EST" width="500"/>
 
 #### Vocabularies Evolve, but ‘Cherokee’ Remains Tied to Warren
 
-I generated two more word clouds at later time intervals using “Cherokee” and nothing else as the search term. The vocabularies are demonstrably different in each wordcloud. 
+I generated two more word clouds at later time intervals using “Cherokee” and nothing else as the search term. The vocabularies are demonstrably different in each wordcloud: 
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%208th%202020%201342%20%20EST.png?token=AJ2DZT5BTLFEP6B5KMEYY6S6MJNUC" alt="Cherokee word cloud, 02/08 1:30 pm EST" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%208th%202020%201342%20%20EST.png?token=AJ2DZT5BTLFEP6B5KMEYY6S6MJNUC" alt="Cherokee word cloud, 02/08 1:30 pm EST" width="500"/>
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%208th%201458%20%20EST.png?token=AJ2DZTZF4Y2AKPXRTTSC4SS6MJN5G" alt="Cherokee word cloud, 02/08 3:00 pm EST" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%208th%201458%20%20EST.png?token=AJ2DZTZF4Y2AKPXRTTSC4SS6MJN5G" alt="Cherokee word cloud, 02/08 3:00 pm EST" width="500"/>
 
 The differences illustrate several key points: first, that new tweets are being generated to draw from & that this conversation is culturally significant enough to sustain a fresh draw of at least one thousand tweets every few hours; second, while the conversation continues to evolve (evidenced by the shifting vocabulary focus in each wordcloud) ties to the Democratic debate are inextricable. 
 
@@ -70,9 +70,9 @@ This search, covering a roughly 30 day period, returned over 38,000 tweets conta
 
 That is in fact the point here--that a name referring to three federally recognized tribes is very often not associated with the tribes at all.
 
-Two of the most prominent themes in this dataset are the phrase "beat Trump", certainly a reference to the Democratic presidential primaries via Elizabeth Warren, and "Jeep Grand"--referring to the automotive manufacturer Jeep & the name of a popular model of car, the Jeep Grand Cherokee.
+Two of the most prominent themes in this dataset are the phrase "beat Trump", certainly a reference to the Democratic presidential primaries via Elizabeth Warren, and "Jeep Grand"--referring to the automotive manufacturer Jeep & the name of a popular model of car, the Jeep Grand Cherokee:
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_January-February%202020.png?token=AJ2DZT7BSFXRX5LWIB4MRTK6MJOAU" alt="Cherokee word cloud, January-February 2020" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_January-February%202020.png?token=AJ2DZT7BSFXRX5LWIB4MRTK6MJOAU" alt="Cherokee word cloud, January-February 2020" width="500"/>
 
 In fact, the top vocabulary word from over a month’s worth of tweets containing the word “Cherokee” is “Jeep”. The second most frequent word from the corpus is “Warren”.
 
@@ -126,7 +126,7 @@ The frequency of the phrase “not offended” within ‘Cherokee’ query corpo
 
 To see what themes these tweet authors were using their purported Cherokee heritage to excuse, I created a dataframe consisting solely of tweets from the “Cherokee”/“not offended” query. Using the same minimal text processing, I created a word cloud & took the top 100 vocabulary words:
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_and_not_offended_word_cloud_February%202020.png?token=AJ2DZT77VDHIQMMCA6MA26S6MJOIG" alt="Cherokee word cloud, 38,000 tweets, January-February 2020" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_and_not_offended_word_cloud_February%202020.png?token=AJ2DZT77VDHIQMMCA6MA26S6MJOIG" alt="Cherokee word cloud, 38,000 tweets, January-February 2020" width="500"/>
 
 Themes in the “not offended” corpus included frequent references to controversial sports mascots, such as ‘Braves’, ‘Washington’ & ‘r-dskins’, ‘indian’, ‘mascot’, ‘tomahawk’ & ‘chop’. Additionally, Cherokee heritage was used to excuse inappropriate references to a kidnapped & murdered Indigenous teenager (search term ‘Pocahontas’, aka Matoaka), sexualized so-called “Pocahottie” outfits (term: ‘costume’), and blood myths (‘great grandma’ & ‘16th’, a reference to blood quantum). The corpus also contains the word ‘snowflake’, contemporary slang referring to a person or group of people the author considers to be too easily offended.
 
@@ -180,7 +180,7 @@ Tweets containing the word "Tsalagi" offer a striking difference in content & to
 
 Rather than a reference to a particular politician, hashtag, or mythology, the most important word in the corpus is simply "*people*":
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Tsalagi_word_cloud_February%202020.png?token=AJ2DZTYDCF6ZDPCHYPYFA6S6MJO3A" alt="Tsalagi word cloud, 22,000 tweets" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Tsalagi_word_cloud_February%202020.png?token=AJ2DZTYDCF6ZDPCHYPYFA6S6MJO3A" alt="Tsalagi word cloud, 22,000 tweets" width="500"/>
 
 #### Creating a Corpus Around Cherokee Citizenship
 
@@ -192,7 +192,7 @@ I named this dataset ᏣᎳᎩ ᎡᎲᎢ, for 'Cherokee citizen', using the syll
 
 Although Senator Warren's claims still appear referenced in this corpus, the major themes of this corpus are much more closely aligned with tribal sovereignty. The words "tribal" and "nation" are prominent, as well as direct references to sovereign tribal nations such as the Cherokee Nation and the Eastern Band of Cherokee Indians:
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_citizen_word_cloud_February%202020.png?token=AJ2DZT5WT65RJ4ZHIG2WENK6MJPBI" alt="ᏣᎳᎩ ᎡᎲᎢ (Cherokee Citizen) word cloud" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_citizen_word_cloud_February%202020.png?token=AJ2DZT5WT65RJ4ZHIG2WENK6MJPBI" alt="ᏣᎳᎩ ᎡᎲᎢ (Cherokee Citizen) word cloud" width="500"/>
 
 __It is clear from the corpus vocabulary that the ideas expressed in tweets containing the words "Cherokee" and "citizen" are centered around sovereignty more than any other subject.__ 
 Cherokee citizenship could thus reasonably be inferred to be an important marker for tweets that reference authentic Cherokee political concerns. 
@@ -207,7 +207,7 @@ The Warren campaign quickly released a 12-page [response](https://www.documentcl
 
 Although this word cloud was generated within the typical 24 hour post-debate time window, this particular dataset shows the impact of Cherokee citizens' voices in its most important concepts: while Warren's response & apology still occupy a prominent place in the corpus, words associated with tribal sovereignty such as "citizens" & "Nation" feature prominently--and powerfully--within the data:
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%2027%202020.png?token=AJ2DZT35TFLZF4DDMJTT3XS6MJPHQ" alt="Cherokee word cloud, February 26th 2020" width="500"/>]
+<img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Cherokee_word_cloud_February%2027%202020.png?token=AJ2DZT35TFLZF4DDMJTT3XS6MJPHQ" alt="Cherokee word cloud, February 26th 2020" width="500"/>
 
 __When the voices of Cherokee citizens are amplified, tribal sovereignty emerges as the theme.__
 
