@@ -164,7 +164,7 @@ For each tweet containing both the word "Cherokee" as well as a reference to tri
 
 To get a more authentic point of comparison for Cherokee attitudes I decided to test terms that many Cherokee people use to refer to themselves. The terms I tested as substitutes for the word "Cherokee" were the Syllabary characters *'ᏣᎳᎩ'* as well as their latinized transliteration, *'Tsalagi'.*
 
-The Cherokee Syllabary is recognizable and renderable across the internet and even in software development environments such as this jupyter notebook, as well as the python and markdown code used to create this analysis. It is critically important to note here that support for Cherokee Syllabary characters such as *ᏣᎳᎩ* is a direct result of the concerted efforts of Cherokee tribes, technologists & engineers.
+The Cherokee Syllabary is recognizable and renderable across the internet and even in software development environments such as the Jupyter Notebook development environment I use, as well as the python and markdown code used to create this analysis. It is critically important to note here that support for Cherokee Syllabary characters such as *ᏣᎳᎩ* is a direct result of the concerted efforts of Cherokee tribes, technologists & engineers.
 
 These facts give the absence of Cherokee engineers & technology in the online conversation a particular irony: Cherokee innovation & technology power basic-to-advanced components of the most familiar technologies today (such as wireless internet & smartphones), yet the vocabulary around these terms remains dissociated from the idea of Natives in tech. It is not unreasonable to infer that while Cherokee innovation powers the internet, the words "Cherokee" and "innovation" are not strongly associated for non-Natives.
 
@@ -184,7 +184,7 @@ Rather than a reference to a particular politician, hashtag, or mythology, the m
 
 <img src="https://raw.githubusercontent.com/IndigenousEngineering/Cherokee_online/master/dataviz/Tsalagi_word_cloud_February%202020.png?token=AJ2DZTYDCF6ZDPCHYPYFA6S6MJO3A" alt="Tsalagi word cloud, 22,000 tweets" width="500"/>
 
-#### Creating a Corpus Around Cherokee Citizenship
+### Creating a Corpus Around Cherokee Citizenship
 
 To find more tweets authentically reflecting the realities of everyday Cherokee lives, I wanted to find a query that would reflect Cherokee sovereignty. I chose to use the tandem search terms "Cherokee" and "citizen", a reference to tribal citizenship in one of the three Cherokee tribes.
 
@@ -201,7 +201,7 @@ Cherokee citizenship could thus reasonably be inferred to be an important marker
 
 This becomes especially apparent in comparison to tweets containing simply the word “Cherokee”, which are demonstrably correlated to a number of social themes--from politics to cars--with little to no relation to the three Cherokee tribes.
 
-#### One More Try for Authentic Cherokee Mentions: After the February 25th Debate
+### One More Try for Authentic Cherokee Mentions: After the February 25th Debate
 
 Checking references containing “Cherokee” after the February 25th Democratic debate showed any interference from Warren’s mentions were eclipsed by [an open letter](https://www.latimes.com/politics/story/2020-02-26/elizabeth-warren-again-is-pressed-on-past-claims-of-native-american-heritage) to the Senator from a group of concerned Indigenous signatories regarding her claims of Cherokee heritage, published on Wednesday February 26th. The [letter, signed by over *two hundred* Cherokee and other Native leaders](https://medium.com/@ewarrenisnotcherokee/open-letter-to-elizabeth-warren-from-cherokee-citizens-ab053578bd95), laid out several priorities for Senator Warren to set a public example in regarding her ancestry claims.
 
