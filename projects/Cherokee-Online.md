@@ -219,4 +219,4 @@ Where self-identified “Cherokee” authors can be found espousing everything f
 
 __The data shows that as in the real word, Cherokee identity and tribal sovereignty remain inextricably linked online.__
 
-*All code used in this project is available [here](https://github.com/IndigenousEngineering/Cherokee_online)*
+*All code used in this project is available [here](https://github.com/IndigenousEngineering/Cherokee_online).*
