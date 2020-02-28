@@ -218,3 +218,5 @@ More than 100 years after the Dawes Act attempted to strip tribes of their self-
 Where self-identified “Cherokee” authors can be found espousing everything from disproven family mythologies to blatant racism in the form of excusing anti-Indigenous actions on behalf of Natives, tribal citizens paint a completely different picture of Cherokee political interests. While Cherokee people & allies find various ways to identify themselves and connect online, tribal citizenship remains an especially powerful predictor of alignment with Cherokee tribal interests.
 
 __The data shows that as in the real word, Cherokee identity and tribal sovereignty remain inextricably linked online.__
+
+*All code used in this project is available [here](https://github.com/IndigenousEngineering/Cherokee_online)*
