@@ -20,6 +20,8 @@
 
 ### tracking hate speech
 
+* ["In Reply: Natives, Suicide, and Online Hostility"](https://indigenous.engineering/projects/In-Reply.html)
+
 * ["Not Your Mascot: Opinions vs Data"](https://IndigenousEngineering.github.io/projects/Not_Your_Mascot.html)
 
 ### bias and WEAT
