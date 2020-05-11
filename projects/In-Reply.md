@@ -84,7 +84,7 @@ Post July 2016 data show a downward shift in sentiment in replies to the mixed-s
 
 The 2016 election cycle marks a measurable increase in negativity directed towards Indigenous accounts:
 
-[<img src="https://github.com/IndigenousEngineering/In-Reply/dataviz/gen_group_neg_replies_by_date.png" alt="Negative sentiment in replies towards Natives has increased measurably since the 2016 election cycle" width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/gen_group_neg_replies_by_date.png" alt="Negative sentiment in replies towards Natives has increased measurably since the 2016 election cycle" width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
 
 Larger Native accounts fared only slightly better during and after the election cycle, with positive tweets making up 59.55% of all replies tested. To get a better sense of potential differences within this group, I created a corpus of replies to each account & tested their sentiment individually.
 
