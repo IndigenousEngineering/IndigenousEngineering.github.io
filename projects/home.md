@@ -8,6 +8,8 @@ indigenous.engineering projects
 
 ### recent:
 
+* ["In Reply: Natives, Suicide, and Online Hostility"](https://indigenous.engineering/projects/In-Reply.html)
+
 * ["What Does It Mean To Be Cherokee Online?"](https://indigenous.engineering/projects/Cherokee-Online.html)
 
 * ["Not Your Mascot: Opinions vs Data"](https://IndigenousEngineering.github.io/projects/Not_Your_Mascot.html)
