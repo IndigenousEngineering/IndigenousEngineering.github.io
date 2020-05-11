@@ -153,19 +153,19 @@ _If you are struggling with suicidal thoughts there is hope & support. Please re
 
 ### Resources
 
-**ONLINE**
+**Online**
 
 [Suicide prevention: Indian Health Service](https://www.ihs.gov/suicideprevention/)
 
-[**We R Native**](https://www.wernative.org/articles/wanting-to-end-your-life)
+[We R Native](https://www.wernative.org/articles/wanting-to-end-your-life)
 
-[**National Suicide Prevention Lifeline: for Native Americans**](https://suicidepreventionlifeline.org/help-yourself/native-americans/)
+[National Suicide Prevention Lifeline: for Native Americans](https://suicidepreventionlifeline.org/help-yourself/native-americans/)
 
-[**National Suicide Prevention Lifeline Main Site**](https://suicidepreventionlifeline.org/)
+[National Suicide Prevention Lifeline Main Site](https://suicidepreventionlifeline.org/)
 
-[**Online chat:**](https://suicidepreventionlifeline.org/chat/) https://suicidepreventionlifeline.org/chat/
+[Online chat:](https://suicidepreventionlifeline.org/chat/)
 
-**BY PHONE**
+**By Phone**
 
 **English: 1-800-273-8255**
 
