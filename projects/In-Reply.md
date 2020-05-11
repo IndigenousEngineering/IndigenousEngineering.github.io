@@ -1,4 +1,4 @@
-[<img src="https://github.com/IndigenousEngineering/In-Reply/dataviz/Mickey_Barrett_graphic.jpeg" alt="a lone figure sits wrapped in a hoodie with anti-Indigenous slurs and suicide references written on it, in front of a night sky with more insults & slurs written across. click for resources. Graphic by Mickey Barrett" width="500"/>](#Resources)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/Mickey_Barrett_graphic.jpeg" alt="a lone figure sits wrapped in a hoodie with anti-Indigenous slurs and suicide references written on it, in front of a night sky with more insults & slurs written across. click for resources. Graphic by Mickey Barrett" width="500"/>](#Resources)
 
 **_Content Note: This project contains references to physical violence, sexual assault, anti-Indigenous slurs, suicide, & self harm._**
 
