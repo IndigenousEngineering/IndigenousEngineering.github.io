@@ -155,7 +155,7 @@ _If you are struggling with suicidal thoughts there is hope & support. Please re
 
 **ONLINE**
 
-[**Suicide prevention: Indian Health Service**](https://www.ihs.gov/suicideprevention/)
+[Suicide prevention: Indian Health Service](https://www.ihs.gov/suicideprevention/)
 
 [**We R Native**](https://www.wernative.org/articles/wanting-to-end-your-life)
 
