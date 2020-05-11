@@ -7,7 +7,7 @@ _Image: a lone figure sits wrapped in a hoodie with anti-Indigenous slurs and su
 
 **_Content Note: This project contains references to physical violence, sexual assault, anti-Indigenous slurs, suicide, & self harm._**
 
-**_If you are experiencing suicidal thoughts, there is help. You are not alone. Please [*click here*](#Resources) for resources._**
+**_If you are experiencing suicidal thoughts, there is help. You are not alone. [Click here](#Resources) for resources._**
 
 **_Dedicated to the family members we have lost, and those fighting to survive. You are sacred and loved._**
 
