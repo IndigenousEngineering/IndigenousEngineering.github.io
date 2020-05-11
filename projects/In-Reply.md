@@ -100,7 +100,7 @@ Out of all groups tested, Black Natives received the most negativity & the lowes
 
 In fact the largest account I tested from this group, with over 9,000 followers at the time, received the _most_ negative responses to tweets out of all individual accounts I checked: only 54.6% positive responses. Given these results it seems reasonable to infer that increased visibility for Black Natives online can lead to increased harassment. (For this reason I have chosen not to publish the handles of these accounts here.)
 
-[<img src="https://github.com/IndigenousEngineering/In-Reply/dataviz/neg_responses_vs_followers_Black_Native_accounts.png" alt="As Black Native accounts attract more followers, they also receive an increase in hostile responses." width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/neg_responses_vs_followers_Black_Native_accounts.png" alt="As Black Native accounts attract more followers, they also receive an increase in hostile responses." width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
 
 ### Results At-A-Glance
 
