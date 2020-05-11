@@ -163,7 +163,7 @@ _If you are struggling with suicidal thoughts there is hope & support. Please re
 
 [National Suicide Prevention Lifeline Main Site](https://suicidepreventionlifeline.org/)
 
-[Online chat:](https://suicidepreventionlifeline.org/chat/)
+[Online chat](https://suicidepreventionlifeline.org/chat/)
 
 **By Phone**
 
