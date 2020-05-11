@@ -9,7 +9,7 @@ _Image: a lone figure sits wrapped in a hoodie with anti-Indigenous slurs and su
 
 **_If you are experiencing suicidal thoughts, there is help. You are not alone. [Click here](#Resources) for resources._**
 
-**_Dedicated to the family members we have lost, and those fighting to survive. You are sacred and loved._**
+_Dedicated to the family members we have lost, and those fighting to survive. You are sacred and loved._
 
 In recent years the number of deaths by suicide in the US has increased across all ethnicities by [more than one third](https://www.cdc.gov/nchs/data/databriefs/db330-h.pdf). However within this dramatic increase, Indigenous peoples are [disproportionately affected](https://www.cdc.gov/nchs/data/hestat/suicide/rates_1999_2017.htm). Suicide rates for Native men have increased by 71% since 1999, more than _double_ the rate for the US as a whole. For Native womxn, deaths by suicide have [increased by _one hundred thirty nine percent_  (139%)](https://indiancountrytoday.com/news/centers-for-disease-control-release-suicide-stats-native-american-women-top-the-list-with-139-percent-increase-ivpVozlnc0eKs3iHX44V4Q).
 
