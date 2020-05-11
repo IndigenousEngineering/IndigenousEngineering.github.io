@@ -55,6 +55,8 @@ Preliminary searches revealed a significant increase in negative speech towards 
  
 Despite the fact that the 2007-2016 corpus covers more than twice the time span, initial explorations revealed a nearly 50% increase in the terms tested in the 2016-2020 corpus (641 phrases found in 30,658 pre- July 2016 tweets, ~2.0% versus 1,435 phrases found in tweets during & after July of 2016, or 2.9%).
 
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/hostile_terms_and_death_refs_2016_and_2020.png" alt="There has been a marked increase in hateful & anti-Indigenous terms, as well as references to death & suicide, since the 2016 election cycle" width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
+
 With these results, I decided to gather a larger sample focused on a shorter list of Native accounts that had notoriety for discussing tribal sovereignty, DNA testing, missing & murdered Indigenous womxn (MMIW), and/or Elizabeth Warren's claims specifically due to anecdotal reports from Natives online regarding increased harassment around Warren’s candidacy: [@DelSchilling](https://twitter.com/DelSchilling), [@rebeccanagle](https://twitter.com/rebeccanagle), [@pollysgdaughter](https://twitter.com/pollysgdaughter), [@KimTallBear](https://twitter.com/KimTallBear), [@NativeApprops](https://twitter.com/NativeApprops), [@justicedanielh](https://twitter.com/justicedanielh), & [@PepePierce](https://twitter.com/PepePierce).
 
 I wanted to see whether the tone of the conversation had shifted differently for these accounts in and after the 2016 election cycle.
@@ -62,8 +64,6 @@ I wanted to see whether the tone of the conversation had shifted differently for
 I also expanded the search range slightly, resetting the end date from January 28th 2020 to extend through March 6th, 2020--the day after Warren [ended her presidential campaign](https://www.cnn.com/2020/03/05/politics/elizabeth-warren-drops-out/index.html).
 
 Within this larger and more focused dataset, I was able to quickly find just under 2,000 potentially offensive tweets containing words/phrases associated with anti-Indigenous violence. With 1,999 such tweets from a corpus of 52,634 documents, or 3.79%, this set contained the largest number of any group/time period I tested. Versus the general post- July 2016 Native group, Native accounts focused on these Native-specific issues received nearly one third more negatively associated phrases among the short list I tested.
-
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/hostile_terms_and_death_refs_2016_and_2020.png" alt="There has been a marked increase in hateful & anti-Indigenous terms, as well as references to death & suicide, since the 2016 election cycle" width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
 
 It should be noted that this short list of only twelve word/phrases--including several variants of “kill yourself”, a frequently used insult in online spaces that specifically references suicide--is incomplete & non-exhaustive. The stark increases in tweets potentially containing hate speech directed at these accounts warrants further investigation with more detailed search strings & analysis.
 
