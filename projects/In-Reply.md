@@ -159,6 +159,8 @@ _If you are struggling with suicidal thoughts there is hope & support. Please re
 
 [**National Suicide Prevention Lifeline Main Site**](https://suicidepreventionlifeline.org/)
 
+[**Online chat:**](https://suicidepreventionlifeline.org/chat/) https://suicidepreventionlifeline.org/chat/
+
 **BY PHONE**
 
 **English: 1-800-273-8255**
@@ -166,8 +168,6 @@ _If you are struggling with suicidal thoughts there is hope & support. Please re
 **Spanish: 1-888-628-9454**
 
 **Hearing impaired/Deaf: 1-800-799-4889**
-
-[**Online chat:**](https://suicidepreventionlifeline.org/chat/) https://suicidepreventionlifeline.org/chat/
 
 **Crisis Text Line: Text HOME to 741741**
 
