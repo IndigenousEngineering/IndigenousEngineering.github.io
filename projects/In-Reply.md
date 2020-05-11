@@ -142,7 +142,7 @@ Participating in social media can be a double-edged sword for Indigenous people.
 Social media companies should take note, and then take action: with vast data & computing resources at their disposal, they should be leading, not lagging, in recognizing & discouraging destructive/hate speech on their platforms. It is imperative, and--armed with data--*very possible* for us to innovate in protecting the most vulnerable members of our communities.
 
 
-_All code for this project is available in [this repo](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)._
+_All code for this project is available in [this repo](https://github.com/IndigenousEngineering/In-Reply/blob/master/in_reply_1.ipynb)._
 
 
 _If you are struggling with suicidal thoughts there is hope & support. Please reach out._
