@@ -58,7 +58,7 @@ I also expanded the search range slightly, resetting the end date from January 2
 
 Within this larger and more focused dataset, I was able to quickly find just under 2,000 potentially offensive tweets containing words/phrases associated with anti-Indigenous violence. With 1,999 such tweets from a corpus of 52,634 documents, or 3.79%, this set contained the largest number of any group/time period I tested. Versus the general post- July 2016 Native group, Native accounts focused on these Native-specific issues received nearly one third more negatively associated phrases among the short list I tested.
 
-[<img src="https://github.com/IndigenousEngineering/In-Reply/dataviz/hostile_terms_and_death_refs_2016_and_2020.png" alt="There has been a marked increase in hateful & anti-Indigenous terms, as well as references to death & suicide, since the 2016 election cycle" width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/hostile_terms_and_death_refs_2016_and_2020.png" alt="There has been a marked increase in hateful & anti-Indigenous terms, as well as references to death & suicide, since the 2016 election cycle" width="500"/>](https://github.com/IndigenousEngineering/In-Reply/in_reply_1.ipynb)
 
 It should be noted that this short list of only twelve word/phrases--including several variants of “kill yourself”, a frequently used insult in online spaces that specifically references suicide--is incomplete & non-exhaustive. The stark increases in tweets potentially containing hate speech directed at these accounts warrants further investigation with more detailed search strings & analysis.
 
