@@ -14,8 +14,8 @@ Long
 
 Short
 
-* ["What Is Normalization In Natural Language Processing?"](https://indigenous.engineering/blog/posts/what-is-normalization.html)
+* [What Is Normalization In Natural Language Processing?](https://indigenous.engineering/blog/posts/what-is-normalization.html)
 
-* ["The Emot Library for Emoji & Emoticons"](https://indigenous.engineering/blog/posts/Emot-library.html)
+* [The Emot Library for Emoji & Emoticons](https://indigenous.engineering/blog/posts/Emot-library.html)
 
 
