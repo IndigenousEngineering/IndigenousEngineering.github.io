@@ -1,4 +1,4 @@
-What is Normalization in Natural Language Processing?
+# What is Normalization in Natural Language Processing?
 
 If Stack Overflow’s [list of questions tagged ‘string’ -- at over 150,000 entries --](https://stackoverflow.com/questions/tagged/string) is any guide, a lot of coders working with strings have run into some unusual edge-case behavior (and maybe even employed some [ugly regex](https://blog.codinghorror.com/regex-use-vs-regex-abuse/) to get the job done). _Normalization_ describes [processes](https://www.kdnuggets.com/2019/04/text-preprocessing-nlp-machine-learning.html) for getting words to their most universally useful form, and anyone who works with strings or text data will need to employ it at some point.
 
