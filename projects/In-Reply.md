@@ -156,6 +156,8 @@ _If you are struggling with suicidal thoughts there is hope & support. Please re
 
 **Online**
 
+[Native Cry](https://www.facebook.com/NativeCry/)
+
 [Suicide prevention: Indian Health Service](https://www.ihs.gov/suicideprevention/)
 
 [We R Native](https://www.wernative.org/articles/wanting-to-end-your-life)
