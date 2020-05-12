@@ -95,7 +95,7 @@ Larger Native accounts fared only slightly better during and after the election 
 
 #### Tribal Sovereignty & DNA
 
-From the focused list of larger Native accounts, two users in particular scored similarly lower than the rest. At only 58.88% and 58.39% positive responses respectively, [@KimTallBear](https://twitter.com/KimTallBear) & [@pollysgdaughter](https://twitter.com/pollysgdaughter) stood out for their similar scores & related content. 
+From the focused list of larger Native accounts, two users in particular scored similarly lower than the rest. At only 58.88% and 58.39% positive responses respectively, @KimTallBear & @pollysgdaughter stood out for their similar scores & related content. 
 
 Both accounts are known for their writing on tribal sovereignty, DNA & false Native heritage claims. Given that these remain highly contested issues by non-Natives on both sides of the political spectrum, it is perhaps not surprising to see that these accounts attracted the most  negative comments out of the group.
 
