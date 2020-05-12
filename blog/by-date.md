@@ -1,6 +1,12 @@
 # ᏗᎪᎥ ᏃᎵᏍᎬ / blog posts by date
 
+[2020](#2020)
+
 [2019](#2019)
+
+### 2020
+
+* ["What Is Normalization In Natural Language Processing?"](https://indigenous.engineering/blog/posts/what-is-normalization.html)
 
 ### 2019
 
