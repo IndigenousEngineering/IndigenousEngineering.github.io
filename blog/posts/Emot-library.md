@@ -14,9 +14,7 @@ Or you can install it from the master branch:
 
 ```
 $ git clone https://github.com/NeelShah18/emot.git
-
 $ cd emot
-
 $ python setup.py install
 ```
 
