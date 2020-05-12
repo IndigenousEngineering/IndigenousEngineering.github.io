@@ -18,6 +18,8 @@ $ cd emot
 $ python setup.py install
 ```
 
-The developers say that all emoji & emoticon definitions come from reliable sources & list several links, including the [unicode full emoji list](http://www.unicode.org/emoji/charts/full-emoji-list.html). I’m looking forward to giving Emot a try!
+The developers say that all emoji & emoticon definitions come from reliable sources & list several links, including the [unicode full emoji list](http://www.unicode.org/emoji/charts/full-emoji-list.html). 
+
+I’m looking forward to giving Emot a try in my next sentiment analysis project.
 
 
