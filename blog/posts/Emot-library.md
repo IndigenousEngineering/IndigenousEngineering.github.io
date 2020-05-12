@@ -1,6 +1,6 @@
 # The Emot Library for Emoji & Emoticons
 
-_May 11, 2020_
+_2020-05-11_
 
 I saw [an article](https://www.kdnuggets.com/2020/04/five-cool-python-libraries-data-science.html) today called “Five Cool Libraries for Data Science” so I clicked through. I figured I would see which ones--maybe all of them--I was already familiar with.
 
