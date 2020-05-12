@@ -4,10 +4,10 @@ _Did hostility to Natives really increase since the 2016 election cycle? Does it
 
 **_Content Note: This project contains references to physical violence, sexual assault, anti-Indigenous slurs, suicide, & self harm._**
 
-[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/Mickey_Barrett_graphic.jpeg" alt="a lone figure sits wrapped in a hoodie with anti-Indigenous slurs and suicide references written on it, in front of a night sky with more insults & slurs written across. click for resources. Graphic by Mickey Barrett" width="500"/>](#Resources)
+[<img src="https://raw.githubusercontent.com/IndigenousEngineering/In-Reply/master/dataviz/Mickey_Barrett_graphic.jpeg" alt="a lone figure sits wrapped in a hoodie with anti-Indigenous slurs and suicide references written on it, in front of a night sky with more insults & slurs written across. click for resources. Graphic by Mickey Barrett" width="500"/>](#resources)
 _Image: a lone figure sits wrapped in a hoodie with anti-Indigenous slurs and suicide references written on it, in front of a night sky with more insults & slurs written across. [click for resources](#resources). graphic by Mickey Barrett_
 
-**_If you are experiencing suicidal thoughts, there is help. You are not alone. [Click here](#Resources) for resources._**
+**_If you are experiencing suicidal thoughts, there is help. You are not alone. [Click here](#resources) for resources._**
 
 _Dedicated to the family members we have lost, and those fighting to survive. You are sacred and loved._
 
