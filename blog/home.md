@@ -10,7 +10,7 @@ welcome to the indigenous.engineering blog
 
 Long
 
-* ["What Words Mean: Towards a Multidisciplinary Approach to Bias in NLP"](https://IndigenousEngineering.github.io/blog/posts/what_words_mean.html)
+* [What Words Mean: Towards a Multidisciplinary Approach to Bias in NLP](https://IndigenousEngineering.github.io/blog/posts/what_words_mean.html)
 
 Short
 
