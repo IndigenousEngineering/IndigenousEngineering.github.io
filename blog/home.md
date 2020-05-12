@@ -8,11 +8,11 @@ welcome to the indigenous.engineering blog
 
 ### most recent:
 
-Long:
+Long
 
 * ["What Words Mean: Towards a Multidisciplinary Approach to Bias in NLP"](https://IndigenousEngineering.github.io/blog/posts/what_words_mean.html)
 
-Short:
+Short
 
 * ["What Is Normalization In Natural Language Processing?"](https://indigenous.engineering/blog/posts/what-is-normalization.html)
 
