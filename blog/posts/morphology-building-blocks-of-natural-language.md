@@ -1,5 +1,7 @@
 # morphology: the building blocks of natural language
 
+2020-05-14
+
 Morphology is the study of change.
 
 In linguistics, morphology looks at how words are formed--their structure, stems, suffixes, prefixes, and roots--and how those meanings change and shift when reconstructed. Morphology is also concerned with how words relate to each other through parts of speech, & _context._ These are all critical ingredients to understanding how words, their constituent properties, and their meanings change in relationship to one another.
