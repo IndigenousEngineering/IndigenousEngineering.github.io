@@ -4,6 +4,8 @@
 
 **_Content Note: This post contains references to anti-Indigenous slurs & other racism._**
 
+_Code for this project available [here](https://github.com/IndigenousEngineering/Not_Your_Mascot/blob/master/Not_Your_Mascot_full.ipynb)._
+
 ## Background
 
 Although [extensive peer-reviewed research](https://www.apa.org/pi/oema/resources/indian-mascots) has been conducted into the harm Native mascots cause Indigeous people as well as [non-Natives](http://www.buffalo.edu/news/releases/2015/03/021.html), both individual [team owners](https://www.usatoday.com/story/sports/nfl/redskins/2013/05/09/washington-redskins-daniel-snyder/2148127/) and the [NFL itself](https://www.espn.com/nfl/story/_/id/22263384/nfl-commissioner-roger-goodell-see-change-washington-redskins-nickname) refuse to take action on changing the names of these teams.
