@@ -160,6 +160,10 @@
 
 * algorithms
 
+    * principal component analysis (PCA)
+    
+        * [A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
+
     * support vector machines
     
         * [Machine Learning 101: Support Vector Machine Theory](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
