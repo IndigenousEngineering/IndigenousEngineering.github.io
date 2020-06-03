@@ -161,7 +161,7 @@ According to the [US Department of Justice](https://www.bjs.gov/content/pub/pdf/
 
 **_“American Indians are more likely than people of other races to experience violence at the hands of someone of a different race.”_**
 
-Given the demonstrable racial overtones of this data and [epidemic of violence against Native womxn](https://www.theguardian.com/commentisfree/2019/may/02/missing-murdered-indigenous-women-deb-haaland), **it is difficult not to find these corpora concerning:**
+Given the demonstrable racial overtones of this data and [epidemic of violence against Native women](https://www.theguardian.com/commentisfree/2019/may/02/missing-murdered-indigenous-women-deb-haaland), **it is difficult not to find these corpora concerning:**
 
 #### "Raped"
 
@@ -182,7 +182,7 @@ Despite documented harm from Native mascots, & [repeated requests for change fro
 
 But these arguments don't hold water in the face of over *one hundred seventy-two thousand*  (172,768 to be precise) instances of negative- to outright hate speech used in conjunction with these team names in the week leading up to the Super Bowl. Comparing tweets containing the team name "Chiefs" with those containing "49ers" provides a useful control both for Native mascots and Super Bowl spotlight; the results demonstrate a marked increase in negative & violent speech associated with the Chiefs.
 
-Given the clear & demonstrable racial correlation, the dramatic increases of violent & hateful rhetoric around the Native-named Chiefs--particularly in light of the epidemic of violence against Indigenous womxn and girls, and high rates of Native victimization by non-Natives--should give anyone still arguing that these names aren't harmful extreme pause.
+Given the clear & demonstrable racial correlation, the dramatic increases of violent & hateful rhetoric around the Native-named Chiefs--particularly in light of the epidemic of violence against Indigenous women and girls, and high rates of Native victimization by non-Natives--should give anyone still arguing that these names aren't harmful extreme pause.
 
 Advocates for changing the names now have contemporary (English) natural language data, on a large scale, to back up their anecdotal evidence that these words are still used in hateful ways against Natives online. Datasets are freely available for research use [here](https://github.com/IndigenousEngineering/Not_Your_Mascot-build/tree/master/datasets). A CSV containing all tweets, including terms & team info, is available [here](https://github.com/IndigenousEngineering/Not_Your_Mascot-build/blob/master/datasets/Not_Your_Mascot_Full_DF.zip). A Jupyter notebook containing all code is available [here](https://github.com/IndigenousEngineering/Not_Your_Mascot-build/blob/master/Not_Your_Mascot_full.ipynb).
 
